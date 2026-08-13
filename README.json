@@ -916,7 +916,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ren'Py",
-            "last_commit": "2026-08-13T02:25:18Z",
+            "last_commit": "2026-08-13T07:05:13Z",
             "owner": "renpy",
             "repo": "renpy",
             "stars": 6711
@@ -1686,7 +1686,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313644
+            "stars": 313688
           }
         },
         {
@@ -1714,7 +1714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:05:14.136Z",
+    "last_updated": "2026-08-13T09:20:37.087Z",
     "original_repository": "methanoliver/awesome-renpy",
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
     "enhanced_repository": "enhansome/enhansome-renpy",

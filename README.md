@@ -563,11 +563,11 @@ You can find a community of RenPy users in your language, provided it's one of:
 
 ## Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,053 | 🐛 100 | 📅 2026-06-30, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,194 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,603 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02.
+Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,158 | 🐛 100 | 📅 2026-06-30, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,194 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,603 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02.
 
 Those should be of particular interest for RenPy users:
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 313,644 | 🐛 25 | 🌐 Python | 📅 2026-08-05
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 313,688 | 🐛 26 | 🌐 Python | 📅 2026-08-05
 * [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,362 | 🐛 0 | 📅 2023-08-21
 * [magictools](https://github.com/ellisonleao/magictool)
 * [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
