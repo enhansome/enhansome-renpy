@@ -916,10 +916,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ren'Py",
-            "last_commit": "2026-08-14T05:17:23Z",
+            "last_commit": "2026-08-15T03:26:59Z",
             "owner": "renpy",
             "repo": "renpy",
-            "stars": 6717
+            "stars": 6718
           }
         },
         {
@@ -1051,7 +1051,7 @@
             "last_commit": "2025-09-10T00:32:26Z",
             "owner": "Rubiksman78",
             "repo": "MonikA.I",
-            "stars": 163
+            "stars": 164
           }
         },
         {
@@ -1062,7 +1062,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ren'Py",
-            "last_commit": "2026-08-13T20:37:10Z",
+            "last_commit": "2026-08-14T22:11:43Z",
             "owner": "shawna-p",
             "repo": "mysterious-messenger",
             "stars": 41
@@ -1450,7 +1450,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T22:40:36Z",
+            "last_commit": "2026-08-15T04:09:16Z",
             "owner": "dcbaker",
             "repo": "flatpaker",
             "stars": 1
@@ -1529,7 +1529,7 @@
             "last_commit": "2025-02-20T14:40:01Z",
             "owner": "drdrr",
             "repo": "RenPy-UnAPK",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -1686,7 +1686,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313886
+            "stars": 314042
           }
         },
         {
@@ -1714,7 +1714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:16:02.650Z",
+    "last_updated": "2026-08-15T08:39:38.106Z",
     "original_repository": "methanoliver/awesome-renpy",
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
     "enhanced_repository": "enhansome/enhansome-renpy",
