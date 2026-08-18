@@ -916,10 +916,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ren'Py",
-            "last_commit": "2026-08-17T04:39:48Z",
+            "last_commit": "2026-08-18T04:10:03Z",
             "owner": "renpy",
             "repo": "renpy",
-            "stars": 6732
+            "stars": 6738
           }
         },
         {
@@ -1037,7 +1037,7 @@
             "last_commit": "2023-04-18T18:03:28Z",
             "owner": "SecondThundeR",
             "repo": "DokiDoki-RenPy",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -1062,7 +1062,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ren'Py",
-            "last_commit": "2026-08-16T20:58:55Z",
+            "last_commit": "2026-08-18T00:30:21Z",
             "owner": "shawna-p",
             "repo": "mysterious-messenger",
             "stars": 41
@@ -1450,10 +1450,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T17:07:12Z",
+            "last_commit": "2026-08-18T00:26:24Z",
             "owner": "dcbaker",
             "repo": "flatpaker",
-            "stars": 3
+            "stars": 4
           }
         }
       ],
@@ -1686,7 +1686,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314369
+            "stars": 314580
           }
         },
         {
@@ -1700,7 +1700,7 @@
             "last_commit": "2023-08-21T17:06:46Z",
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1362
+            "stars": 1363
           }
         },
         {
@@ -1714,7 +1714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:55:07.754Z",
+    "last_updated": "2026-08-18T08:48:58.415Z",
     "original_repository": "methanoliver/awesome-renpy",
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
     "enhanced_repository": "enhansome/enhansome-renpy",

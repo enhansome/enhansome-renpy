@@ -335,7 +335,7 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 
 Shaders are the most arcane part of RenPy, because they require branching into [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language), while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.
 
-* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,732 | 🐛 293 | 🌐 Ren'Py | 📅 2026-08-17 - An alternative implementation of blur that overrides the stock blur.
+* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,738 | 🐛 292 | 🌐 Ren'Py | 📅 2026-08-18 - An alternative implementation of blur that overrides the stock blur.
 * [renpy-blend-modes](https://github.com/CrossCouloir/renpy-blend-modes) ⭐ 24 | 🐛 1 | 🌐 Ren'Py | 📅 2025-12-14 - Shader-based Photoshop-style blend modes for images. Only soft light is implemented.
 * [Wave shader](https://github.com/SoDaRa/RenpyWaveShader) ⭐ 17 | 🐛 1 | 🌐 Ren'Py | 📅 2022-05-23 - A better documented wave shader.
 * [Outline shader](https://github.com/RenpyRemix/outline-shader) ⭐ 15 | 🐛 2 | 🌐 Ren'Py | 📅 2021-04-11 - Adds outlines to arbitrary objects.
@@ -352,9 +352,9 @@ Shaders are the most arcane part of RenPy, because they require branching into [
 Occasionally, entire games are published as open source, though not necessarily free. Whenever they contain anything useful as example code, they go in this section.
 
 * [Learn to Code RPG](https://github.com/freeCodeCamp/LearnToCodeRPG) ⚠️ Archived - a complete RenPy title, showcasing some of the more obscure features, with full source and assets.
-* [Decompiled Doki Doki Literature Club](https://github.com/SecondThundeR/DokiDoki-RenPy) ⭐ 197 | 🐛 2 | 🌐 Ren'Py | 📅 2023-04-18 - while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming from 6.99 era, and is of historical and educational interest.
+* [Decompiled Doki Doki Literature Club](https://github.com/SecondThundeR/DokiDoki-RenPy) ⭐ 198 | 🐛 2 | 🌐 Ren'Py | 📅 2023-04-18 - while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming from 6.99 era, and is of historical and educational interest.
 * [MonikA.I](https://github.com/Rubiksman78/MonikA.I) ⭐ 164 | 🐛 8 | 🌐 Python | 📅 2025-09-10 - AI-based features for a mod for Doki Doki Literature Club, this is an advanced example of integrating RenPy with a chatbot.
-* [Mysterious Messenger](https://github.com/shawna-p/mysterious-messenger) ⭐ 41 | 🐛 0 | 🌐 Ren'Py | 📅 2026-08-16 - An entire game built around a custom messenger imitation.
+* [Mysterious Messenger](https://github.com/shawna-p/mysterious-messenger) ⭐ 41 | 🐛 0 | 🌐 Ren'Py | 📅 2026-08-18 - An entire game built around a custom messenger imitation.
 * [KatawaShoujo-RenPy8](https://github.com/gcammisa/KatawaShoujo-RenPy8) ⭐ 38 | 🐛 1 | 🌐 Ren'Py | 📅 2024-06-22 - A port of the classic Katawa Shoujo visual novel to run on modern versions of RenPy.
 * [carpe-diem](https://github.com/moonlitworks/carpe-diem) ⭐ 2 | 🐛 0 | 🌐 Ren'Py | 📅 2022-11-11 - Complete source for [Carpe Diem](https://store.steampowered.com/app/423880/Carpe_Diem/)
 * [Without Romance](https://github.com/moonlitworks/without-romance) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2023-10-10 - A SuNoFES 2020 project.
@@ -408,7 +408,7 @@ These are software unto themselves.
 * [renpy-build-action](https://github.com/ProjectAliceDev/renpy-build-action) ⭐ 39 | 🐛 3 | 🌐 Shell | 📅 2026-01-26 - This GitHub action allows you to make distributable builds of a Ren'Py visual novel project in a workflow and use the built files for distribution.
 * [renkit](https://github.com/kobaltcore/renkit) ⭐ 32 | 🐛 1 | 🌐 Rust | 📅 2025-12-29 - A toolkit for managing Ren'Py instances via the command line, intended for build automation and continuous integration.
 * [renpy-lint-action](https://github.com/ProjectAliceDev/renpy-lint-action) ⭐ 22 | 🐛 0 | 🌐 Shell | 📅 2022-01-15 - This GitHub action allows you to run the linter on a Ren'Py visual novel project in a workflow for testing purposes.
-* [renpy2flatpak](https://github.com/dcbaker/renpy2flatpak) ⭐ 3 | 🐛 12 | 🌐 Python | 📅 2026-08-16 - A tool to automate packaging a Linux release of your project into Flatpak format for distribution.
+* [renpy2flatpak](https://github.com/dcbaker/renpy2flatpak) ⭐ 4 | 🐛 11 | 🌐 Python | 📅 2026-08-18 - A tool to automate packaging a Linux release of your project into Flatpak format for distribution.
 
 #### Unpacking and decompilation
 
@@ -523,7 +523,7 @@ Most of these are only useful to produce background images, as getting the detai
 #### Graphics
 
 * [Krita](https://krita.org/) - The best open source paint program.
-  * [Generate Ren'Py Scripting](https://github.com/SeanHRN/generate-renpy-scripting) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-05-05 - A plugin for Krita, outputs a block of Ren'Py script to display the images of the active Krita document as they appear on the canvas, working in tandem with the [krita-batch-exporter](https://github.com/GDQuest/krita-batch-exporter) ⭐ 379 | 🐛 11 | 🌐 Python | 📅 2022-03-07.
+  * [Generate Ren'Py Scripting](https://github.com/SeanHRN/generate-renpy-scripting) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-05-05 - A plugin for Krita, outputs a block of Ren'Py script to display the images of the active Krita document as they appear on the canvas, working in tandem with the [krita-batch-exporter](https://github.com/GDQuest/krita-batch-exporter) ⭐ 377 | 🐛 11 | 🌐 Python | 📅 2022-03-07.
 * [GIMP](https://www.gimp.org/) - The more arcane and ancient, but likewise powerful open source paint program.
 * [Synfig Studio](https://www.synfig.org/) - Free animation software.
 * [Inkscape](https://inkscape.org/) - best open source vector image editor.
@@ -563,15 +563,15 @@ You can find a community of RenPy users in your language, provided it's one of:
 
 ## Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,707 | 🐛 100 | 📅 2026-06-30, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,198 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
+Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,139 | 🐛 103 | 📅 2026-06-30, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,199 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,611 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
 
 Those should be of particular interest for RenPy users:
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,369 | 🐛 15 | 🌐 Python | 📅 2026-08-16
-* [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,362 | 🐛 0 | 📅 2023-08-21
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,580 | 🐛 16 | 🌐 Python | 📅 2026-08-16
+* [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,363 | 🐛 0 | 📅 2023-08-21
 * [magictools](https://github.com/ellisonleao/magictool)
 * [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
