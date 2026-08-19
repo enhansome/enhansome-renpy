@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "description": "RenPy's own documentation is somewhat scattered, at times incomplete, and often, insufficiently detailed.\nThat is, of course, no excuse not to read it, but if that was not helpful:",
-      "items": [],
-      "title": "Documentation"
-    },
-    {
-      "description": "These are articles from PyTom's Patreon, most of which explain a certain feature in more detail than the manual does and provide example code.",
-      "items": [],
-      "title": "Patreon articles"
-    },
-    {
       "description": "Templates to start off a new project containing commonly requested features a stock RenPy new project does not offer.",
       "items": [
         {
@@ -20,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441593673,
             "language": "HTML",
             "last_commit": "2024-08-21T05:35:53Z",
             "owner": "RuolinZheng08",
             "repo": "renpy-template",
-            "stars": 104
+            "stars": 103
           }
         },
         {
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 581629324,
             "language": "Ren'Py",
             "last_commit": "2024-02-05T23:46:13Z",
             "owner": "shawna-p",
@@ -48,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517059825,
             "language": "Ren'Py",
             "last_commit": "2025-02-09T23:57:13Z",
             "owner": "enaielei",
@@ -60,1617 +53,1668 @@
     },
     {
       "description": "Pieces of code big enough to be called libraries.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Renpygame",
+              "description": "- An attempt to resurrect the library that simplified porting Pygame code to RenPy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600571246,
+                "language": "Ren'Py",
+                "last_commit": "2024-01-29T15:15:46Z",
+                "owner": "DRincs-Productions",
+                "repo": "Renpygame",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Console",
+              "description": "An in-game console for the player to use (i.e. distinct from the built-in developer console). Not well documented at all.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135818869,
+                "language": "Ren'Py",
+                "last_commit": "2018-06-02T13:18:38Z",
+                "owner": "abduelhamit",
+                "repo": "renpy-ingame-console",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DynamicSpriteManager",
+              "description": "A high-level system for easily defining and compiling the RenPy native LayeredImage. Given a directory of images, it will automatically scan and categorize those images for use in a mix-and-match style sprite declaration language based on filenames. Documentation inline with code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261056753,
+                "language": "Ren'Py",
+                "last_commit": "2020-05-05T08:33:05Z",
+                "owner": "alexkrob",
+                "repo": "dynamicsprites",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "renpy-color-picker",
+              "description": "What it says on the tin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630219504,
+                "language": "Ren'Py",
+                "last_commit": "2025-08-24T19:13:03Z",
+                "owner": "shawna-p",
+                "repo": "renpy-color-picker",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Extra Animated Value",
+              "description": "Extending for bars.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293929479,
+                "language": "Ren'Py",
+                "last_commit": "2021-04-26T18:39:46Z",
+                "owner": "RenpyRemix",
+                "repo": "extra-animated-value",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Puppitor",
+              "description": "A complicated sprite animation library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236370702,
+                "language": "Python",
+                "last_commit": "2025-04-22T21:53:50Z",
+                "owner": "njunius",
+                "repo": "Puppitor",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Discord Rich Presence Support for Ren'Py Projects",
+              "description": "Interact with Discord Rich Presence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537950037,
+                "language": "Ren'Py",
+                "last_commit": "2022-10-09T18:07:58Z",
+                "owner": "Lezalith",
+                "repo": "RenPy-Discord-Presence",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RADC",
+              "description": "A framework to enable a RenPy project to download its own DLC. Documentation in Spanish only.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 520392569,
+                "language": "Ren'Py",
+                "last_commit": "2025-09-06T10:45:51Z",
+                "owner": "CharlieFuu69",
+                "repo": "RenPyHub-Plugin",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RDAA",
+              "description": "A fork of RADC with English and Russian documentation and extra features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617173739,
+                "language": "Python",
+                "last_commit": "2023-03-23T17:59:35Z",
+                "owner": "Xrisofor",
+                "repo": "RDAA",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Auto Weather Change",
+              "description": "Access openweathermap API to acquire weather information from RenPy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214014959,
+                "language": "Python",
+                "last_commit": "2020-01-13T23:33:14Z",
+                "owner": "multimokia",
+                "repo": "Renpy-Weather-Utils",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Network"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kinetic Text Tags",
+              "description": "Text that shakes, waves, bounces, scatters, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310206383,
+                "language": "Ren'Py",
+                "last_commit": "2024-03-31T00:57:14Z",
+                "owner": "SoDaRa",
+                "repo": "Kinetic-Text-Tags",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Encyclopaedia Framework",
+              "description": "Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31487271,
+                "language": "Python",
+                "last_commit": "2025-01-19T14:58:33Z",
+                "owner": "jsfehler",
+                "repo": "renpy-encyclopaedia",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Speech Bubbles",
+              "description": "A unique look presenting novel text as speech bubbles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260447838,
+                "language": "Ren'Py",
+                "last_commit": "2020-07-01T20:59:23Z",
+                "owner": "RenpyRemix",
+                "repo": "speech-bubbles",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FancyText",
+              "description": "Text that can fade in letter-by-letter, and appear in other interesting ways.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 280113414,
+                "language": "Ren'Py",
+                "last_commit": "2026-08-11T08:03:26Z",
+                "owner": "yukinogatari",
+                "repo": "Ren-Py-FancyText",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RenPy Lipsync Plugin",
+              "description": "A plugin that stitches the Rhubarb automated lip sync engine into RenPy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 689530803,
+                "language": "C++",
+                "last_commit": "2025-07-02T06:56:35Z",
+                "owner": "Wendy-Nam",
+                "repo": "RenPy-Lipsync-Plugin",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Autofocus",
+              "description": "A different technology to do the same.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 687704707,
+                "language": "Ren'Py",
+                "last_commit": "2024-11-01T17:38:02Z",
+                "owner": "Elckarow",
+                "repo": "Autofocus",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "renpy-word-description",
+              "description": "- Text tooltips on hover over words.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 568421161,
+                "language": "Ren'Py",
+                "last_commit": "2023-08-09T07:00:57Z",
+                "owner": "valery-iwanofu",
+                "repo": "renpy-word-description",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "renpy-rainbowtext",
+              "description": "A rainbow text effect.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566243843,
+                "language": "Ren'Py",
+                "last_commit": "2022-11-17T10:23:54Z",
+                "owner": "Lezalith",
+                "repo": "renpy-rainbowtext",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VN Sprite Kit",
+              "description": "Declares a character's entire sprite set from the filenames in a folder, so adding an expression or an outfit needs no new statement, and pre-rendered combinations get short names like . Includes the bottom-aligned framing transforms most projects end up rewriting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1318060462,
+                "language": "HTML",
+                "last_commit": "2026-08-05T07:09:46Z",
+                "owner": "pixelpixi",
+                "repo": "spritewright",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visual novel elements"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RPG Battle Engine",
+              "description": "What it says on the tin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285179999,
+                "language": "Ren'Py",
+                "last_commit": "2021-05-27T01:41:43Z",
+                "owner": "Habitacle",
+                "repo": "battle-engine",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dating Sim Engine",
+              "description": "The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40637253,
+                "language": "Ren'Py",
+                "last_commit": "2019-11-06T18:28:41Z",
+                "owner": "renpy",
+                "repo": "dse",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dating sim toolkit",
+              "description": "A different take on same.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275885263,
+                "language": "Ren'Py",
+                "last_commit": "2024-04-15T08:40:24Z",
+                "owner": "DRincs-Productions",
+                "repo": "DS-toolkit",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Navigation Quest Time Routine System",
+              "description": "A complete system introducing the concepts of location, time and event, producing the framework of a not-quite-point-and-click adventure game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 311482814,
+                "language": "Ren'Py",
+                "last_commit": "2024-07-29T08:41:40Z",
+                "owner": "DRincs-Productions",
+                "repo": "NQTR-System",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cardgame Framework",
+              "description": "What it says on the tin. Ancient code, but still works well in current RenPy. Not very suitable for modification, due to relying exclusively on deprecated features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36242161,
+                "language": null,
+                "last_commit": "2015-05-30T03:48:52Z",
+                "owner": "renpy",
+                "repo": "cardgame",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gameplay elements"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elckarow/Phone",
+              "description": "Imitating a phone is a very common task.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574730805,
+                "language": "Ren'Py",
+                "last_commit": "2024-04-08T23:03:04Z",
+                "owner": "Elckarow",
+                "repo": "Better-EMR-Phone",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Messenger Emulator",
+              "description": "An advanced library for imitating Telegram Messenger in-game. Requires work to adapt to more modern versions of RenPy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161152619,
+                "language": "Python",
+                "last_commit": "2020-03-28T03:20:34Z",
+                "owner": "sDextra",
+                "repo": "messenger-emulator",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Candella",
+              "description": "\"Candella is a fork of the AliceOS framework, a Ren'Py framework that provides an operating environment to visual novels. This operating environment includes utilities, classes, and other code that lets developers and players write and use apps designed for the system.\" To put it less opaquely, this imitates a full window system with \"applications\" inside RenPy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329153005,
+                "language": "Ren'Py",
+                "last_commit": "2023-06-01T01:18:55Z",
+                "owner": "UnscriptedVN",
+                "repo": "candella",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ren'Py Chat Log",
+              "description": "- Library for displaying scrolling chat logs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188645509,
+                "language": "Ren'Py",
+                "last_commit": "2019-07-12T04:52:31Z",
+                "owner": "JimTheCactus",
+                "repo": "chatlogging",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "albireo-games/renpy_phone",
+              "description": "It is a wheel people keep reinventing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 589430835,
+                "language": "Ren'Py",
+                "last_commit": "2026-07-10T06:03:34Z",
+                "owner": "albireogames",
+                "repo": "renpy_phone",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Device imitation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ren'Py Universal Player",
+              "description": "An enhanced music room for Ren'Py projects that allows users to play tracks outside the game's story along with sideloaded songs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365838827,
+                "language": "Python",
+                "last_commit": "2022-04-11T19:15:34Z",
+                "owner": "Bronya-Rand",
+                "repo": "RenPy-Universal-Player",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "renpy-achievement",
+              "description": "A screen to display an XBox-like achievement popup. Does not actually interact with any achievement backend, but the builtin one should serve.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349593681,
+                "language": "Ren'Py",
+                "last_commit": "2022-04-04T03:49:56Z",
+                "owner": "shawna-p",
+                "repo": "renpy-achievement",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GalleryPlus",
+              "description": "Extends the functionality of RenPy's built-in Gallery class. Allows looping images, pages, navigation buttons.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359251776,
+                "language": "Ren'Py",
+                "last_commit": "2021-04-18T21:32:57Z",
+                "owner": "cheonbyeol",
+                "repo": "RenPy-GalleryPlus",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "renpy-gallery-inject",
+              "description": "Self contained gallery screen, and code to allow the screen and functionality to be patched into existing games without changing their code in any way.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453221375,
+                "language": "Python",
+                "last_commit": "2022-09-12T17:55:00Z",
+                "owner": "Numerlor",
+                "repo": "renpy-gallery-inject",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "In a classic Japanese title, these would go into making the contents of an \"Extras\" menu.",
+          "node_type": "group",
+          "title": "Extra content"
+        }
+      ],
       "title": "Frameworks"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Renpygame",
-          "description": "- An attempt to resurrect the library that simplified porting Pygame code to RenPy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2024-01-29T15:15:46Z",
-            "owner": "DRincs-Productions",
-            "repo": "Renpygame",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Console",
-          "description": "An in-game console for the player to use (i.e. distinct from the built-in developer console). Not well documented at all.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2018-06-02T13:18:38Z",
-            "owner": "abduelhamit",
-            "repo": "renpy-ingame-console",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DynamicSpriteManager",
-          "description": "A high-level system for easily defining and compiling the RenPy native LayeredImage. Given a directory of images, it will automatically scan and categorize those images for use in a mix-and-match style sprite declaration language based on filenames. Documentation inline with code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2020-05-05T08:33:05Z",
-            "owner": "alexkrob",
-            "repo": "dynamicsprites",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy-color-picker",
-          "description": "What it says on the tin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2025-08-24T19:13:03Z",
-            "owner": "shawna-p",
-            "repo": "renpy-color-picker",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Extra Animated Value",
-          "description": "Extending for bars.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2021-04-26T18:39:46Z",
-            "owner": "RenpyRemix",
-            "repo": "extra-animated-value",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Puppitor",
-          "description": "A complicated sprite animation library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-22T21:53:50Z",
-            "owner": "njunius",
-            "repo": "Puppitor",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "General"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Discord Rich Presence Support for Ren'Py Projects",
-          "description": "Interact with Discord Rich Presence.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2022-10-09T18:07:58Z",
-            "owner": "Lezalith",
-            "repo": "RenPy-Discord-Presence",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RADC",
-          "description": "A framework to enable a RenPy project to download its own DLC. Documentation in Spanish only.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2025-09-06T10:45:51Z",
-            "owner": "CharlieFuu69",
-            "repo": "RenPyHub-Plugin",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RDAA",
-          "description": "A fork of RADC with English and Russian documentation and extra features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-23T17:59:35Z",
-            "owner": "Xrisofor",
-            "repo": "RDAA",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Auto Weather Change",
-          "description": "Access openweathermap API to acquire weather information from RenPy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-01-13T23:33:14Z",
-            "owner": "multimokia",
-            "repo": "Renpy-Weather-Utils",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Network"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Kinetic Text Tags",
-          "description": "Text that shakes, waves, bounces, scatters, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2024-03-31T00:57:14Z",
-            "owner": "SoDaRa",
-            "repo": "Kinetic-Text-Tags",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Encyclopaedia Framework",
-          "description": "Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-19T14:58:33Z",
-            "owner": "jsfehler",
-            "repo": "renpy-encyclopaedia",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Speech Bubbles",
-          "description": "A unique look presenting novel text as speech bubbles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2020-07-01T20:59:23Z",
-            "owner": "RenpyRemix",
-            "repo": "speech-bubbles",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FancyText",
-          "description": "Text that can fade in letter-by-letter, and appear in other interesting ways.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ren'Py",
-            "last_commit": "2026-08-11T08:03:26Z",
-            "owner": "yukinogatari",
-            "repo": "Ren-Py-FancyText",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RenPy Lipsync Plugin",
-          "description": "A plugin that stitches the Rhubarb automated lip sync engine into RenPy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-07-02T06:56:35Z",
-            "owner": "Wendy-Nam",
-            "repo": "RenPy-Lipsync-Plugin",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Autofocus",
-          "description": "A different technology to do the same.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2024-11-01T17:38:02Z",
-            "owner": "Elckarow",
-            "repo": "Autofocus",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy-word-description",
-          "description": "- Text tooltips on hover over words.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2023-08-09T07:00:57Z",
-            "owner": "valery-iwanofu",
-            "repo": "renpy-word-description",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy-rainbowtext",
-          "description": "A rainbow text effect.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2022-11-17T10:23:54Z",
-            "owner": "Lezalith",
-            "repo": "renpy-rainbowtext",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VN Sprite Kit",
-          "description": "Declares a character's entire sprite set from the filenames in a folder, so adding an expression or an outfit needs no new statement, and pre-rendered combinations get short names like . Includes the bottom-aligned framing transforms most projects end up rewriting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-05T07:09:46Z",
-            "owner": "pixelpixi",
-            "repo": "spritewright",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RPY-VNBE",
-          "description": "A set of multiple libraries, including an achievement system and a number of text effects.",
-          "children": []
-        }
-      ],
-      "title": "Visual novel elements"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RPG Battle Engine",
-          "description": "What it says on the tin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2021-05-27T01:41:43Z",
-            "owner": "Habitacle",
-            "repo": "battle-engine",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dating Sim Engine",
-          "description": "The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2019-11-06T18:28:41Z",
-            "owner": "renpy",
-            "repo": "dse",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dating sim toolkit",
-          "description": "A different take on same.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2024-04-15T08:40:24Z",
-            "owner": "DRincs-Productions",
-            "repo": "DS-toolkit",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Navigation Quest Time Routine System",
-          "description": "A complete system introducing the concepts of location, time and event, producing the framework of a not-quite-point-and-click adventure game.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2024-07-29T08:41:40Z",
-            "owner": "DRincs-Productions",
-            "repo": "NQTR-System",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cardgame Framework",
-          "description": "What it says on the tin. Ancient code, but still works well in current RenPy. Not very suitable for modification, due to relying exclusively on deprecated features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2015-05-30T03:48:52Z",
-            "owner": "renpy",
-            "repo": "cardgame",
-            "stars": 34
-          }
-        }
-      ],
-      "title": "Gameplay elements"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Elckarow/Phone",
-          "description": "Imitating a phone is a very common task.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2024-04-08T23:03:04Z",
-            "owner": "Elckarow",
-            "repo": "Better-EMR-Phone",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Messenger Emulator",
-          "description": "An advanced library for imitating Telegram Messenger in-game. Requires work to adapt to more modern versions of RenPy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-03-28T03:20:34Z",
-            "owner": "sDextra",
-            "repo": "messenger-emulator",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Candella",
-          "description": "\"Candella is a fork of the AliceOS framework, a Ren'Py framework that provides an operating environment to visual novels. This operating environment includes utilities, classes, and other code that lets developers and players write and use apps designed for the system.\" To put it less opaquely, this imitates a full window system with \"applications\" inside RenPy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2023-06-01T01:18:55Z",
-            "owner": "UnscriptedVN",
-            "repo": "candella",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ren'Py Chat Log",
-          "description": "- Library for displaying scrolling chat logs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2019-07-12T04:52:31Z",
-            "owner": "JimTheCactus",
-            "repo": "chatlogging",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "albireo-games/renpy_phone",
-          "description": "It is a wheel people keep reinventing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2026-07-10T06:03:34Z",
-            "owner": "albireogames",
-            "repo": "renpy_phone",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RenpyPhoneSMS",
-          "description": "And another one.",
-          "children": []
-        }
-      ],
-      "title": "Device imitation"
-    },
-    {
-      "description": "In a classic Japanese title, these would go into making the contents of an \"Extras\" menu.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ren'Py Universal Player",
-          "description": "An enhanced music room for Ren'Py projects that allows users to play tracks outside the game's story along with sideloaded songs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-11T19:15:34Z",
-            "owner": "Bronya-Rand",
-            "repo": "RenPy-Universal-Player",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy-achievement",
-          "description": "A screen to display an XBox-like achievement popup. Does not actually interact with any achievement backend, but the builtin one should serve.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2022-04-04T03:49:56Z",
-            "owner": "shawna-p",
-            "repo": "renpy-achievement",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GalleryPlus",
-          "description": "Extends the functionality of RenPy's built-in Gallery class. Allows looping images, pages, navigation buttons.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2021-04-18T21:32:57Z",
-            "owner": "cheonbyeol",
-            "repo": "RenPy-GalleryPlus",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy-gallery-inject",
-          "description": "Self contained gallery screen, and code to allow the screen and functionality to be patched into existing games without changing their code in any way.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-12T17:55:00Z",
-            "owner": "Numerlor",
-            "repo": "renpy-gallery-inject",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RPY-VNBE",
-          "description": "A set of multiple libraries, including an achievement system and a number of text effects.",
-          "children": []
-        }
-      ],
-      "title": "Extra content"
-    },
-    {
       "description": "Most useful RenPy code comes in the form of code snippets, examples, and other small pieces, rather than a well-packaged library. As such, many of these links link to Gists, forum posts, and other such locations wherein a given code snippet is presented in context. You can always wade the depths of Lemmasoft RenPy forums yourself for more.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ChromaGlitch",
+                  "description": "Glitch effect.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 373133518,
+                    "language": "Python",
+                    "last_commit": "2024-10-28T22:19:34Z",
+                    "owner": "Gouvernathor",
+                    "repo": "renpy-ChromaGlitch",
+                    "stars": 75
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RenPyGlitch",
+                  "description": "A different implementation of a glitch effect. Documentation in Russian.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 100646559,
+                    "language": "Ren'Py",
+                    "last_commit": "2023-03-29T10:17:20Z",
+                    "owner": "NyashniyVladya",
+                    "repo": "RenPyGlitchs",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SWHolo",
+                  "description": "Star Wars hologram effect.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 301828126,
+                    "language": "Ren'Py",
+                    "last_commit": "2024-04-03T13:47:58Z",
+                    "owner": "Gouvernathor",
+                    "repo": "renpy-SWHolo",
+                    "stars": 23
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Effects"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RenPyParticles",
+                  "description": "Custom particle motion classes. Documentation in Russian.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 373248291,
+                    "language": "Ren'Py",
+                    "last_commit": "2025-10-07T03:05:18Z",
+                    "owner": "AgentAlpha81",
+                    "repo": "RenPyParticles",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ren-Py-Free-to-Use-Falling-Leaves",
+                  "description": "Particle-based falling leaves, complete with assets.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 450371865,
+                    "language": "Ren'Py",
+                    "last_commit": "2022-12-16T05:36:34Z",
+                    "owner": "Thediamondcryst",
+                    "repo": "Ren-Py-Free-to-Use-Falling-Leaves",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Projection starfield",
+                  "description": "Particle-based starfield.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63569037,
+                    "language": "Python",
+                    "last_commit": "2025-05-04T15:50:13Z",
+                    "owner": "jsfehler",
+                    "repo": "renpy-projection-starfield",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ren-Py-Free-to-Use-Moving-Clouds",
+                  "description": "Particle-based moving clouds, complete with assets.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 537309592,
+                    "language": "Ren'Py",
+                    "last_commit": "2023-05-03T06:15:22Z",
+                    "owner": "Thediamondcryst",
+                    "repo": "Ren-Py-Free-To-Use-Moving-Clouds",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Particles"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Radar chart",
+                  "description": "Displayable for plotting data onto a radar chart.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40448443,
+                    "language": "Ren'Py",
+                    "last_commit": "2024-04-01T02:17:53Z",
+                    "owner": "jsfehler",
+                    "repo": "renpy-radarchart",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Static chessboard displayable",
+                  "description": "What it says on the tin. Can be used to produce a full AI-run chess game.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 330472635,
+                    "language": "Ren'Py",
+                    "last_commit": "2021-01-28T02:27:55Z",
+                    "owner": "RuolinZheng08",
+                    "repo": "renpy-static-chessboard",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Analog clock",
+                  "description": "A clock displayable.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 132850135,
+                    "language": "Ren'Py",
+                    "last_commit": "2018-05-10T05:28:33Z",
+                    "owner": "williamd1k0",
+                    "repo": "renpy-analog-clock",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Displayables"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Free-hand draw",
+                  "description": "Draw on a canvas inside a Ren'Py game.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 145225467,
+                    "language": "Ren'Py",
+                    "last_commit": "2018-08-23T01:48:22Z",
+                    "owner": "jsfehler",
+                    "repo": "renpy-freehand-draw",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ren'Py Lovense Boilerplate",
+                  "description": "Code examples for controlling Lovense vibrating devices from RenPy.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 507670812,
+                    "language": "Ren'Py",
+                    "last_commit": "2022-06-27T12:52:24Z",
+                    "owner": "lolabray",
+                    "repo": "Renpy-lovense-boilerplate",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Yandex Mobile ads in RenPy",
+                  "description": "What it says on the tin, but in Russian.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 526149018,
+                    "language": "Python",
+                    "last_commit": "2024-02-29T06:06:47Z",
+                    "owner": "valery-iwanofu",
+                    "repo": "rapt-yandex-ads",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RenPy Extension Demo",
+                  "description": "Examples of using the scarcely documented engine extension mechanism.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 558793259,
+                    "language": "Python",
+                    "last_commit": "2023-01-01T20:10:32Z",
+                    "owner": "Ayowel",
+                    "repo": "renpy-extension-demo",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": "These are useful, but difficult to categorize.",
+              "node_type": "group",
+              "title": "Other snippets"
+            }
+          ],
+          "description": "Not all of these are confirmed to work in current versions of RenPy.",
+          "node_type": "group",
+          "title": "Snippets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rhythm game",
+              "description": "Dance Dance Revolution style, well documented.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344354977,
+                "language": "Python",
+                "last_commit": "2026-03-09T19:27:46Z",
+                "owner": "RuolinZheng08",
+                "repo": "renpy-rhythm",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RhythmBeats",
+              "description": "A different take on rhythm game framework, documentation in Spanish.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 568217138,
+                "language": "Python",
+                "last_commit": "2025-01-14T05:06:41Z",
+                "owner": "CharlieFuu69",
+                "repo": "RenPy_RhythmBeats",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Space Invaders",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 498002829,
+                "language": "Ren'Py",
+                "last_commit": "2022-05-30T20:02:00Z",
+                "owner": "pass-by-reference",
+                "repo": "renpy-space-invaders",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RenPyDraw",
+              "description": "In-game graphics editing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597870692,
+                "language": "Ren'Py",
+                "last_commit": "2023-03-02T15:52:19Z",
+                "owner": "NyashniyVladya",
+                "repo": "RenPyDraw",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "renpy-go",
+              "description": "Go in RenPy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 516052386,
+                "language": "Ren'Py",
+                "last_commit": "2022-07-22T16:21:45Z",
+                "owner": "limnological",
+                "repo": "renpy-go",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Renpy_Shooter",
+              "description": "A shooting minigame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631986935,
+                "language": "Ren'Py",
+                "last_commit": "2026-01-05T11:27:31Z",
+                "owner": "ShadowXJaw724",
+                "repo": "Renpy_Shooter",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Self-contained minigames can occasionally be found. Some assembly is usually required.",
+          "node_type": "group",
+          "title": "Minigames"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Replacement blur",
+              "description": "An alternative implementation of blur that overrides the stock blur.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4815490,
+                "language": "Ren'Py",
+                "last_commit": "2026-08-19T06:44:00Z",
+                "owner": "renpy",
+                "repo": "renpy",
+                "stars": 6742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "renpy-blend-modes",
+              "description": "Shader-based Photoshop-style blend modes for images. Only soft light is implemented.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 421900372,
+                "language": "Ren'Py",
+                "last_commit": "2025-12-14T22:43:55Z",
+                "owner": "CrossCouloir",
+                "repo": "renpy-blend-modes",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wave shader",
+              "description": "A better documented wave shader.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479776477,
+                "language": "Ren'Py",
+                "last_commit": "2022-05-23T14:14:31Z",
+                "owner": "SoDaRa",
+                "repo": "RenpyWaveShader",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Outline shader",
+              "description": "Adds outlines to arbitrary objects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 354552712,
+                "language": "Ren'Py",
+                "last_commit": "2021-04-11T15:22:13Z",
+                "owner": "RenpyRemix",
+                "repo": "outline-shader",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RenPy Shader Collection",
+              "description": "waves, color picker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469628824,
+                "language": "Ren'Py",
+                "last_commit": "2022-03-15T07:17:10Z",
+                "owner": "valery-iwanofu",
+                "repo": "renpy-shader-collection",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RGB Split",
+              "description": "Chromatic aberration shader.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394136618,
+                "language": "Ren'Py",
+                "last_commit": "2023-09-23T13:26:04Z",
+                "owner": "AgentAlpha81",
+                "repo": "RGB-Split",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Renpy-GLSL-Test",
+              "description": "Experimental setup, contains a packaged \"whirl\" transition that originates from one of PyTom's patreon posts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286589994,
+                "language": "Ren'Py",
+                "last_commit": "2020-08-12T05:17:13Z",
+                "owner": "WatercressStudios",
+                "repo": "Renpy-GLSL-Test",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "Shaders are the most arcane part of RenPy, because they require branching into GLSL, while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.",
+          "node_type": "group",
+          "title": "Shaders"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Learn to Code RPG",
+              "description": "a complete RenPy title, showcasing some of the more obscure features, with full source and assets.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 399596705,
+                "language": "Ren'Py",
+                "last_commit": "2023-11-12T13:42:35Z",
+                "owner": "freeCodeCamp",
+                "repo": "LearnToCodeRPG",
+                "stars": 1133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Decompiled Doki Doki Literature Club",
+              "description": "while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming from 6.99 era, and is of historical and educational interest.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 305115010,
+                "language": "Ren'Py",
+                "last_commit": "2023-04-18T18:03:28Z",
+                "owner": "SecondThundeR",
+                "repo": "DokiDoki-RenPy",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MonikA.I",
+              "description": "AI-based features for a mod for Doki Doki Literature Club, this is an advanced example of integrating RenPy with a chatbot.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 578195246,
+                "language": "Python",
+                "last_commit": "2025-09-10T00:32:26Z",
+                "owner": "Rubiksman78",
+                "repo": "MonikA.I",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mysterious Messenger",
+              "description": "An entire game built around a custom messenger imitation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129648853,
+                "language": "Ren'Py",
+                "last_commit": "2026-08-18T21:15:49Z",
+                "owner": "shawna-p",
+                "repo": "mysterious-messenger",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KatawaShoujo-RenPy8",
+              "description": "A port of the classic Katawa Shoujo visual novel to run on modern versions of RenPy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560603982,
+                "language": "Ren'Py",
+                "last_commit": "2024-06-22T15:19:55Z",
+                "owner": "gcammisa",
+                "repo": "KatawaShoujo-RenPy8",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "carpe-diem",
+              "description": "Complete source for Carpe Diem",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 545213515,
+                "language": "Ren'Py",
+                "last_commit": "2022-11-11T17:31:47Z",
+                "owner": "moonlitworks",
+                "repo": "carpe-diem",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Without Romance",
+              "description": "A SuNoFES 2020 project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 439886942,
+                "language": "Python",
+                "last_commit": "2023-10-10T01:06:18Z",
+                "owner": "moonlitworks",
+                "repo": "without-romance",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Occasionally, entire games are published as open source, though not necessarily free. Whenever they contain anything useful as example code, they go in this section.",
+          "node_type": "group",
+          "title": "Code examples"
+        }
+      ],
       "title": "Cookbook"
     },
     {
-      "description": "Not all of these are confirmed to work in current versions of RenPy.",
-      "items": [],
-      "title": "Snippets"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "ChromaGlitch",
-          "description": "Glitch effect.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-28T22:19:34Z",
-            "owner": "Gouvernathor",
-            "repo": "renpy-ChromaGlitch",
-            "stars": 75
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ActionEditor",
+              "description": "A powerful director tool for manipulating camera, viewing the results and generating code to produce the interactively-defined effects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 408334379,
+                "language": "Ren'Py",
+                "last_commit": "2025-04-29T05:03:49Z",
+                "owner": "kyouryuukunn",
+                "repo": "renpy-ActionEditor3",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "renpy-TranslationTools",
+              "description": "Tools to aid in managing translations in certain corner cases. Also the rare example of embedding RenPy-script in Python, rather than the reverse as is usual.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 529460318,
+                "language": "Python",
+                "last_commit": "2025-11-22T01:09:54Z",
+                "owner": "Gouvernathor",
+                "repo": "renpy-TranslationTools",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Expreviewer",
+              "description": "A preview tool for layeredimage sprites.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 646506108,
+                "language": "Ren'Py",
+                "last_commit": "2023-05-30T08:09:45Z",
+                "owner": "Elckarow",
+                "repo": "Expreviewer",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RenPy automatic translations",
+              "description": "A tool to automate machine translation of your project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 545230654,
+                "language": "Python",
+                "last_commit": "2025-06-12T02:15:49Z",
+                "owner": "Moshibit",
+                "repo": "RenPy_automatic_translations",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Demotools",
+              "description": "An extension that can be used to produce automated demos, screencasts, and otherwise pretend there's a player at the keyboard.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 565398789,
+                "language": "Python",
+                "last_commit": "2023-01-06T11:43:56Z",
+                "owner": "Ayowel",
+                "repo": "renpy-demotools",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RVRE",
+              "description": "The editor provides a means to proofread your visual novel while running it and without leaving.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 410966654,
+                "language": "Ren'Py",
+                "last_commit": "2021-09-29T22:45:37Z",
+                "owner": "picobyte",
+                "repo": "RVRE",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "These are meant to be built into the project at least during development, and thus are a cross between libraries and standalone tools.",
+          "node_type": "group",
+          "title": "In-engine developer tools"
         },
         {
-          "node_type": "item",
-          "title": "RenPyGlitch",
-          "description": "A different implementation of a glitch effect. Documentation in Russian.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2023-03-29T10:17:20Z",
-            "owner": "NyashniyVladya",
-            "repo": "RenPyGlitchs",
-            "stars": 23
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "renpy-graphviz",
+                  "description": "Draws a flowchart of a RenPy project based on jumps, calls and labels. Has an online version.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 342880580,
+                    "language": "Go",
+                    "last_commit": "2026-04-09T08:44:01Z",
+                    "owner": "EwenQuim",
+                    "repo": "renpy-graphviz",
+                    "stars": 179
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "renpyDialogToAudio",
+                  "description": "Automatically generates voice for your project based on text originals using elevenlabs TTS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 617080454,
+                    "language": "Python",
+                    "last_commit": "2023-12-29T19:35:47Z",
+                    "owner": "lugia19",
+                    "repo": "renpyDialogToAudio",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Node based script editor",
+                  "description": "Kind of like Twine's dialogue tree view, but for RenPy.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 207851187,
+                    "language": "Python",
+                    "last_commit": "2022-10-26T05:06:43Z",
+                    "owner": "williamyang98",
+                    "repo": "ScriptEditor",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "vnproofer",
+                  "description": "Project proofreading and spellchecking tool that works by passing scripts through cspell.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 365588571,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-24T21:04:27Z",
+                    "owner": "devorbitus",
+                    "repo": "vnproofer",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ren'Py VSCode Project Template",
+                  "description": "a configuration for Visual Studio Code to enable running, linting and building from the IDE.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 355625671,
+                    "language": "Ren'Py",
+                    "last_commit": "2023-07-11T08:25:17Z",
+                    "owner": "tiliv",
+                    "repo": "renpy-vscode-template",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "renpyfmt",
+                  "description": "A formatter for RenPy code. Work in progress, but looks promising.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 565588680,
+                    "language": "Rust",
+                    "last_commit": "2026-06-08T11:47:53Z",
+                    "owner": "kobaltcore",
+                    "repo": "renpyfmt",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ren'Py Language for Visual Studio Code",
+                  "description": "Currently the way to edit RenPy code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 763063759,
+                    "language": "TypeScript",
+                    "last_commit": "2025-08-23T15:31:40Z",
+                    "owner": "LuqueDaniel",
+                    "repo": "vscode-language-renpy",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "renxel",
+                  "description": "Transmute RenPy translation files to Excel tables and back.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 498576903,
+                    "language": "Ren'Py",
+                    "last_commit": "2024-02-28T03:50:54Z",
+                    "owner": "KagariSoft",
+                    "repo": "renxel",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Renpy Parser",
+                  "description": "Parses a lightweight text file markup format into RenPy script.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 609421366,
+                    "language": "Python",
+                    "last_commit": "2023-03-09T09:47:46Z",
+                    "owner": "gameboxthing",
+                    "repo": "renpy_parser",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "renpydeskgen",
+                  "description": "Shell script to generate Linux files for RenPy games.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 296114241,
+                    "language": "Shell",
+                    "last_commit": "2023-08-21T07:33:50Z",
+                    "owner": "Noxgrim",
+                    "repo": "renpydeskgen",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "renpy-counter",
+                  "description": "- Estimates the play-length for your project based on average reading speed. Requires node.js.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 616353225,
+                    "language": "JavaScript",
+                    "last_commit": "2023-04-10T22:44:30Z",
+                    "owner": "b1f6c1c4",
+                    "repo": "renpy-counter",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "General"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "renpy-build-action",
+                  "description": "This GitHub action allows you to make distributable builds of a Ren'Py visual novel project in a workflow and use the built files for distribution.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 209830829,
+                    "language": "Shell",
+                    "last_commit": "2026-01-26T20:40:15Z",
+                    "owner": "ProjectAliceDev",
+                    "repo": "renpy-build-action",
+                    "stars": 39
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "renkit",
+                  "description": "A toolkit for managing Ren'Py instances via the command line, intended for build automation and continuous integration.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 394373150,
+                    "language": "Rust",
+                    "last_commit": "2025-12-29T17:26:46Z",
+                    "owner": "kobaltcore",
+                    "repo": "renkit",
+                    "stars": 32
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "renpy-lint-action",
+                  "description": "This GitHub action allows you to run the linter on a Ren'Py visual novel project in a workflow for testing purposes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 209881378,
+                    "language": "Shell",
+                    "last_commit": "2022-01-15T20:44:36Z",
+                    "owner": "ProjectAliceDev",
+                    "repo": "renpy-lint-action",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "renpy2flatpak",
+                  "description": "A tool to automate packaging a Linux release of your project into Flatpak format for distribution.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 614653662,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T18:37:28Z",
+                    "owner": "dcbaker",
+                    "repo": "flatpaker",
+                    "stars": 4
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Continuous integration"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "unrpyc",
+                  "description": "The file decompiler.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3176344,
+                    "language": "Ren'Py",
+                    "last_commit": "2026-02-24T14:48:19Z",
+                    "owner": "CensoredUsername",
+                    "repo": "unrpyc",
+                    "stars": 1229
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "unrpa",
+                  "description": "The most famous RPA archive extractor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3046568,
+                    "language": "Python",
+                    "last_commit": "2022-06-27T12:05:29Z",
+                    "owner": "Lattyware",
+                    "repo": "unrpa",
+                    "stars": 754
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "rpatool",
+                  "description": "The less famous RPA archive extractor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 4864999,
+                    "language": "Python",
+                    "last_commit": "2022-08-23T18:28:07Z",
+                    "owner": "shizmob",
+                    "repo": "rpatool",
+                    "stars": 631
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RPA Explorer",
+                  "description": "Graphical explorer for RenPy Archives built around a C# library to manipulate them. Can also invoke on the contents.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 456725024,
+                    "language": "JavaScript",
+                    "last_commit": "2025-05-10T13:09:42Z",
+                    "owner": "UniverseDevel",
+                    "repo": "RPA-Explorer",
+                    "stars": 102
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RenPy-UnAPK",
+                  "description": "A tool to unpack and decompile an Android build's APK file. Sparsely documented, but there's not much to document.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 368460490,
+                    "language": "Python",
+                    "last_commit": "2025-02-20T14:40:01Z",
+                    "owner": "drdrr",
+                    "repo": "RenPy-UnAPK",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "warpa",
+                  "description": "RPA archive manipulation tool written in Rust.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 524471502,
+                    "language": "Rust",
+                    "last_commit": "2023-01-10T04:04:53Z",
+                    "owner": "m-haisham",
+                    "repo": "warpa",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "arpy",
+                  "description": "Golang implementation of an RPA unpacker.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 563713276,
+                    "language": "Go",
+                    "last_commit": "2022-12-29T04:17:58Z",
+                    "owner": "chrsm",
+                    "repo": "arpy",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Unpacking and decompilation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "articy2renpy",
+                  "description": "A converter for articy:draft JSON exports to Ren'Py *.rpy script files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 298206244,
+                    "language": "Python",
+                    "last_commit": "2025-02-03T15:57:52Z",
+                    "owner": "TheSchnappi",
+                    "repo": "articy2renpy",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FDtoRenpy",
+                  "description": "Convert a FinalDraft script to RenPy.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 132590044,
+                    "language": "Python",
+                    "last_commit": "2018-08-31T12:10:44Z",
+                    "owner": "RunawayHaggis",
+                    "repo": "FDtoRenpy",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "articy3_renpy3",
+                  "description": "Another variation on articy to RenPy converter.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 548359723,
+                    "language": "Python",
+                    "last_commit": "2023-02-04T18:19:11Z",
+                    "owner": "SqFKYo",
+                    "repo": "articy3_renpy3",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Conversion"
+            }
+          ],
+          "description": "These are software unto themselves.",
+          "node_type": "group",
+          "title": "Standalone developer tools"
         },
         {
-          "node_type": "item",
-          "title": "SWHolo",
-          "description": "Star Wars hologram effect.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2024-04-03T13:47:58Z",
-            "owner": "Gouvernathor",
-            "repo": "renpy-SWHolo",
-            "stars": 23
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Translator3000",
+              "description": "Runs RenPy games through automated translation. Trial version.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141181538,
+                "language": "Ren'Py",
+                "last_commit": "2025-02-07T20:11:17Z",
+                "owner": "NyashniyVladya",
+                "repo": "Translator3000",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "renpy2linux",
+              "description": "A script to convert Ren'Py releases to Windows, OSX and Linux-compatible ones, when the only thing you have is one of the three. Requires Linux or OSX to work.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 5358007,
+                "language": "Shell",
+                "last_commit": "2021-11-24T12:39:17Z",
+                "owner": "shizmob",
+                "repo": "renpy2linux",
+                "stars": 31
+              }
+            }
+          ],
+          "description": "These tools are made for end-users, rather than developers.",
+          "node_type": "group",
+          "title": "End-user tools"
         }
       ],
-      "title": "Effects"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RenPyParticles",
-          "description": "Custom particle motion classes. Documentation in Russian.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2025-10-07T03:05:18Z",
-            "owner": "AgentAlpha81",
-            "repo": "RenPyParticles",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ren-Py-Free-to-Use-Falling-Leaves",
-          "description": "Particle-based falling leaves, complete with assets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2022-12-16T05:36:34Z",
-            "owner": "Thediamondcryst",
-            "repo": "Ren-Py-Free-to-Use-Falling-Leaves",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Projection starfield",
-          "description": "Particle-based starfield.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-04T15:50:13Z",
-            "owner": "jsfehler",
-            "repo": "renpy-projection-starfield",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ren-Py-Free-to-Use-Moving-Clouds",
-          "description": "Particle-based moving clouds, complete with assets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2023-05-03T06:15:22Z",
-            "owner": "Thediamondcryst",
-            "repo": "Ren-Py-Free-To-Use-Moving-Clouds",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Particles"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Radar chart",
-          "description": "Displayable for plotting data onto a radar chart.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2024-04-01T02:17:53Z",
-            "owner": "jsfehler",
-            "repo": "renpy-radarchart",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Static chessboard displayable",
-          "description": "What it says on the tin. Can be used to produce a full AI-run chess game.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2021-01-28T02:27:55Z",
-            "owner": "RuolinZheng08",
-            "repo": "renpy-static-chessboard",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Analog clock",
-          "description": "A clock displayable.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2018-05-10T05:28:33Z",
-            "owner": "williamd1k0",
-            "repo": "renpy-analog-clock",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Displayables"
-    },
-    {
-      "description": "These are useful, but difficult to categorize.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Free-hand draw",
-          "description": "Draw on a canvas inside a Ren'Py game.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2018-08-23T01:48:22Z",
-            "owner": "jsfehler",
-            "repo": "renpy-freehand-draw",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ren'Py Lovense Boilerplate",
-          "description": "Code examples for controlling Lovense vibrating devices from RenPy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2022-06-27T12:52:24Z",
-            "owner": "lolabray",
-            "repo": "Renpy-lovense-boilerplate",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yandex Mobile ads in RenPy",
-          "description": "What it says on the tin, but in Russian.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-02-29T06:06:47Z",
-            "owner": "valery-iwanofu",
-            "repo": "rapt-yandex-ads",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RenPy Extension Demo",
-          "description": "Examples of using the scarcely documented engine extension mechanism.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-01T20:10:32Z",
-            "owner": "Ayowel",
-            "repo": "renpy-extension-demo",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Other snippets"
-    },
-    {
-      "description": "Self-contained minigames can occasionally be found. Some assembly is usually required.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Rhythm game",
-          "description": "Dance Dance Revolution style, well documented.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-09T19:27:46Z",
-            "owner": "RuolinZheng08",
-            "repo": "renpy-rhythm",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RhythmBeats",
-          "description": "A different take on rhythm game framework, documentation in Spanish.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-14T05:06:41Z",
-            "owner": "CharlieFuu69",
-            "repo": "RenPy_RhythmBeats",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Space Invaders",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2022-05-30T20:02:00Z",
-            "owner": "pass-by-reference",
-            "repo": "renpy-space-invaders",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RenPyDraw",
-          "description": "In-game graphics editing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2023-03-02T15:52:19Z",
-            "owner": "NyashniyVladya",
-            "repo": "RenPyDraw",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy-go",
-          "description": "Go in RenPy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2022-07-22T16:21:45Z",
-            "owner": "limnological",
-            "repo": "renpy-go",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Renpy_Shooter",
-          "description": "A shooting minigame.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2026-01-05T11:27:31Z",
-            "owner": "ShadowXJaw724",
-            "repo": "Renpy_Shooter",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Renpy-lockpick-minigame",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Minigames"
-    },
-    {
-      "description": "Shaders are the most arcane part of RenPy, because they require branching into GLSL, while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Replacement blur",
-          "description": "An alternative implementation of blur that overrides the stock blur.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2026-08-18T04:10:03Z",
-            "owner": "renpy",
-            "repo": "renpy",
-            "stars": 6738
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy-blend-modes",
-          "description": "Shader-based Photoshop-style blend modes for images. Only soft light is implemented.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2025-12-14T22:43:55Z",
-            "owner": "CrossCouloir",
-            "repo": "renpy-blend-modes",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wave shader",
-          "description": "A better documented wave shader.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2022-05-23T14:14:31Z",
-            "owner": "SoDaRa",
-            "repo": "RenpyWaveShader",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Outline shader",
-          "description": "Adds outlines to arbitrary objects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2021-04-11T15:22:13Z",
-            "owner": "RenpyRemix",
-            "repo": "outline-shader",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RenPy Shader Collection",
-          "description": "waves, color picker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2022-03-15T07:17:10Z",
-            "owner": "valery-iwanofu",
-            "repo": "renpy-shader-collection",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RGB Split",
-          "description": "Chromatic aberration shader.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2023-09-23T13:26:04Z",
-            "owner": "AgentAlpha81",
-            "repo": "RGB-Split",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Renpy-GLSL-Test",
-          "description": "Experimental setup, contains a packaged \"whirl\" transition that originates from one of PyTom's patreon posts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2020-08-12T05:17:13Z",
-            "owner": "WatercressStudios",
-            "repo": "Renpy-GLSL-Test",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Shaders"
-    },
-    {
-      "description": "Occasionally, entire games are published as open source, though not necessarily free. Whenever they contain anything useful as example code, they go in this section.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Learn to Code RPG",
-          "description": "a complete RenPy title, showcasing some of the more obscure features, with full source and assets.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ren'Py",
-            "last_commit": "2023-11-12T13:42:35Z",
-            "owner": "freeCodeCamp",
-            "repo": "LearnToCodeRPG",
-            "stars": 1133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Decompiled Doki Doki Literature Club",
-          "description": "while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming from 6.99 era, and is of historical and educational interest.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2023-04-18T18:03:28Z",
-            "owner": "SecondThundeR",
-            "repo": "DokiDoki-RenPy",
-            "stars": 198
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MonikA.I",
-          "description": "AI-based features for a mod for Doki Doki Literature Club, this is an advanced example of integrating RenPy with a chatbot.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-10T00:32:26Z",
-            "owner": "Rubiksman78",
-            "repo": "MonikA.I",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mysterious Messenger",
-          "description": "An entire game built around a custom messenger imitation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2026-08-18T00:30:21Z",
-            "owner": "shawna-p",
-            "repo": "mysterious-messenger",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KatawaShoujo-RenPy8",
-          "description": "A port of the classic Katawa Shoujo visual novel to run on modern versions of RenPy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2024-06-22T15:19:55Z",
-            "owner": "gcammisa",
-            "repo": "KatawaShoujo-RenPy8",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "carpe-diem",
-          "description": "Complete source for Carpe Diem",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2022-11-11T17:31:47Z",
-            "owner": "moonlitworks",
-            "repo": "carpe-diem",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Without Romance",
-          "description": "A SuNoFES 2020 project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-10T01:06:18Z",
-            "owner": "moonlitworks",
-            "repo": "without-romance",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cute demon crashers",
-          "description": "interesting examples of functional programming, well commented, even if dated.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "DW Klondike Solitaire",
-          "description": "A complete Solitaire in RenPy, good as an example of using the Card Game Framework.",
-          "children": []
-        }
-      ],
-      "title": "Code examples"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Tools"
-    },
-    {
-      "description": "These are meant to be built into the project at least during development, and thus are a cross between libraries and standalone tools.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ActionEditor",
-          "description": "A powerful director tool for manipulating camera, viewing the results and generating code to produce the interactively-defined effects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2025-04-29T05:03:49Z",
-            "owner": "kyouryuukunn",
-            "repo": "renpy-ActionEditor3",
-            "stars": 192
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy-TranslationTools",
-          "description": "Tools to aid in managing translations in certain corner cases. Also the rare example of embedding RenPy-script in Python, rather than the reverse as is usual.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-22T01:09:54Z",
-            "owner": "Gouvernathor",
-            "repo": "renpy-TranslationTools",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Expreviewer",
-          "description": "A preview tool for layeredimage sprites.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2023-05-30T08:09:45Z",
-            "owner": "Elckarow",
-            "repo": "Expreviewer",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RenPy automatic translations",
-          "description": "A tool to automate machine translation of your project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-12T02:15:49Z",
-            "owner": "Moshibit",
-            "repo": "RenPy_automatic_translations",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Demotools",
-          "description": "An extension that can be used to produce automated demos, screencasts, and otherwise pretend there's a player at the keyboard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-06T11:43:56Z",
-            "owner": "Ayowel",
-            "repo": "renpy-demotools",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RVRE",
-          "description": "The editor provides a means to proofread your visual novel while running it and without leaving.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2021-09-29T22:45:37Z",
-            "owner": "picobyte",
-            "repo": "RVRE",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MouseFinderTool",
-          "description": "A set of developer tools to pinpoint mouse position of things. Documentation in Spanish only.",
-          "children": []
-        }
-      ],
-      "title": "In-engine developer tools"
-    },
-    {
-      "description": "These are software unto themselves.",
-      "items": [],
-      "title": "Standalone developer tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "renpy-graphviz",
-          "description": "Draws a flowchart of a RenPy project based on jumps, calls and labels. Has an online version.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-09T08:44:01Z",
-            "owner": "EwenQuim",
-            "repo": "renpy-graphviz",
-            "stars": 179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpyDialogToAudio",
-          "description": "Automatically generates voice for your project based on text originals using elevenlabs TTS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-29T19:35:47Z",
-            "owner": "lugia19",
-            "repo": "renpyDialogToAudio",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Node based script editor",
-          "description": "Kind of like Twine's dialogue tree view, but for RenPy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-26T05:06:43Z",
-            "owner": "williamyang98",
-            "repo": "ScriptEditor",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vnproofer",
-          "description": "Project proofreading and spellchecking tool that works by passing scripts through cspell.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-24T21:04:27Z",
-            "owner": "devorbitus",
-            "repo": "vnproofer",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ren'Py VSCode Project Template",
-          "description": "a configuration for Visual Studio Code to enable running, linting and building from the IDE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2023-07-11T08:25:17Z",
-            "owner": "tiliv",
-            "repo": "renpy-vscode-template",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpyfmt",
-          "description": "A formatter for RenPy code. Work in progress, but looks promising.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-08T11:47:53Z",
-            "owner": "kobaltcore",
-            "repo": "renpyfmt",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ren'Py Language for Visual Studio Code",
-          "description": "Currently the way to edit RenPy code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-08-23T15:31:40Z",
-            "owner": "LuqueDaniel",
-            "repo": "vscode-language-renpy",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renxel",
-          "description": "Transmute RenPy translation files to Excel tables and back.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ren'Py",
-            "last_commit": "2024-02-28T03:50:54Z",
-            "owner": "KagariSoft",
-            "repo": "renxel",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Renpy Parser",
-          "description": "Parses a lightweight text file markup format into RenPy script.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-09T09:47:46Z",
-            "owner": "gameboxthing",
-            "repo": "renpy_parser",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpydeskgen",
-          "description": "Shell script to generate Linux files for RenPy games.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-08-21T07:33:50Z",
-            "owner": "Noxgrim",
-            "repo": "renpydeskgen",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy-counter",
-          "description": "- Estimates the play-length for your project based on average reading speed. Requires node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-04-10T22:44:30Z",
-            "owner": "b1f6c1c4",
-            "repo": "renpy-counter",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ren'py => Python Generator",
-          "description": "An utility to convert pure Python files to Python-In-RenPy syntax, allowing for easier editing.",
-          "children": []
-        }
-      ],
-      "title": "General"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "renpy-build-action",
-          "description": "This GitHub action allows you to make distributable builds of a Ren'Py visual novel project in a workflow and use the built files for distribution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-01-26T20:40:15Z",
-            "owner": "ProjectAliceDev",
-            "repo": "renpy-build-action",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renkit",
-          "description": "A toolkit for managing Ren'Py instances via the command line, intended for build automation and continuous integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-29T17:26:46Z",
-            "owner": "kobaltcore",
-            "repo": "renkit",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy-lint-action",
-          "description": "This GitHub action allows you to run the linter on a Ren'Py visual novel project in a workflow for testing purposes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-01-15T20:44:36Z",
-            "owner": "ProjectAliceDev",
-            "repo": "renpy-lint-action",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy2flatpak",
-          "description": "A tool to automate packaging a Linux release of your project into Flatpak format for distribution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T00:26:24Z",
-            "owner": "dcbaker",
-            "repo": "flatpaker",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Continuous integration"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "unrpyc",
-          "description": "The file decompiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2026-02-24T14:48:19Z",
-            "owner": "CensoredUsername",
-            "repo": "unrpyc",
-            "stars": 1228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "unrpa",
-          "description": "The most famous RPA archive extractor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-27T12:05:29Z",
-            "owner": "Lattyware",
-            "repo": "unrpa",
-            "stars": 754
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rpatool",
-          "description": "The less famous RPA archive extractor.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-08-23T18:28:07Z",
-            "owner": "shizmob",
-            "repo": "rpatool",
-            "stars": 631
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RPA Explorer",
-          "description": "Graphical explorer for RenPy Archives built around a C# library to manipulate them. Can also invoke on the contents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-10T13:09:42Z",
-            "owner": "UniverseDevel",
-            "repo": "RPA-Explorer",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RenPy-UnAPK",
-          "description": "A tool to unpack and decompile an Android build's APK file. Sparsely documented, but there's not much to document.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-20T14:40:01Z",
-            "owner": "drdrr",
-            "repo": "RenPy-UnAPK",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "warpa",
-          "description": "RPA archive manipulation tool written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-01-10T04:04:53Z",
-            "owner": "m-haisham",
-            "repo": "warpa",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arpy",
-          "description": "Golang implementation of an RPA unpacker.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2022-12-29T04:17:58Z",
-            "owner": "chrsm",
-            "repo": "arpy",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Unpacking and decompilation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "articy2renpy",
-          "description": "A converter for articy:draft JSON exports to Ren'Py *.rpy script files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-03T15:57:52Z",
-            "owner": "TheSchnappi",
-            "repo": "articy2renpy",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FDtoRenpy",
-          "description": "Convert a FinalDraft script to RenPy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-08-31T12:10:44Z",
-            "owner": "RunawayHaggis",
-            "repo": "FDtoRenpy",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "articy3_renpy3",
-          "description": "Another variation on articy to RenPy converter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-04T18:19:11Z",
-            "owner": "SqFKYo",
-            "repo": "articy3_renpy3",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Conversion"
-    },
-    {
-      "description": "These tools are made for end-users, rather than developers.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Translator3000",
-          "description": "Runs RenPy games through automated translation. Trial version.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ren'Py",
-            "last_commit": "2025-02-07T20:11:17Z",
-            "owner": "NyashniyVladya",
-            "repo": "Translator3000",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "renpy2linux",
-          "description": "A script to convert Ren'Py releases to Windows, OSX and Linux-compatible ones, when the only thing you have is one of the three. Requires Linux or OSX to work.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2021-11-24T12:39:17Z",
-            "owner": "shizmob",
-            "repo": "renpy2linux",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rpycg",
-          "description": "Injects RenPy code into published games to enable developer mode and manually poke at the internals. Windows only.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Summertime Saga Save Compatibility Tool",
-          "description": "Community-maintained compatibility reference and interactive checker for supported Summertime Saga save versions, including structured JSON datasets and troubleshooting documentation.",
-          "children": []
-        }
-      ],
-      "title": "End-user tools"
-    },
-    {
-      "description": "No visual novel is complete without artwork and sound. Beware and carefully observe the license terms!",
-      "items": [],
-      "title": "Assets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Asset generators"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Asset editing tools"
     },
     {
       "description": "Other amazingly awesome lists can be found in awesome, awesome-awesome and awesome-awesomeness.\nThose should be of particular interest for RenPy users:",
@@ -1682,11 +1726,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21289110,
             "language": "Python",
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314580
+            "stars": 314796
           }
         },
         {
@@ -1696,25 +1741,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110746033,
             "language": null,
             "last_commit": "2023-08-21T17:06:46Z",
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1363
+            "stars": 1364
           }
-        },
-        {
-          "node_type": "item",
-          "title": "magictools",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:48:58.415Z",
+    "last_updated": "2026-08-19T08:49:37.767Z",
     "original_repository": "methanoliver/awesome-renpy",
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
     "enhanced_repository": "enhansome/enhansome-renpy",

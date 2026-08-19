@@ -169,7 +169,7 @@ Code examples implementing a particular feature.
 
 Templates to start off a new project containing commonly requested features a stock RenPy new project does not offer.
 
-* [renpy-awesome-template](https://github.com/RuolinZheng08/renpy-awesome-template) ⭐ 104 | 🐛 0 | 🌐 HTML | 📅 2024-08-21 - An advanced starter project template.
+* [renpy-awesome-template](https://github.com/RuolinZheng08/renpy-awesome-template) ⭐ 103 | 🐛 0 | 🌐 HTML | 📅 2024-08-21 - An advanced starter project template.
 * [Easy Ren'Py GUI](https://github.com/shawna-p/EasyRenPyGui) ⭐ 74 | 🐛 0 | 🌐 Ren'Py | 📅 2024-02-05 - A template project intended to make it easier to deeply alter the default game UI.
 * [renpy-minimal-template](https://github.com/enaielei/renpy-minimal-template) ⭐ 2 | 🐛 0 | 🌐 Ren'Py | 📅 2025-02-09 - Actually the complete reverse: A minimal working template, which contains none of the default GUI. Also contains the example of using the scarcely documented explicitly loadable modules feature.
 * [All-in-one GUI Template](https://tofurocks.itch.io/renpy-gui-template)
@@ -335,7 +335,7 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 
 Shaders are the most arcane part of RenPy, because they require branching into [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language), while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.
 
-* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,738 | 🐛 292 | 🌐 Ren'Py | 📅 2026-08-18 - An alternative implementation of blur that overrides the stock blur.
+* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,742 | 🐛 291 | 🌐 Ren'Py | 📅 2026-08-19 - An alternative implementation of blur that overrides the stock blur.
 * [renpy-blend-modes](https://github.com/CrossCouloir/renpy-blend-modes) ⭐ 24 | 🐛 1 | 🌐 Ren'Py | 📅 2025-12-14 - Shader-based Photoshop-style blend modes for images. Only soft light is implemented.
 * [Wave shader](https://github.com/SoDaRa/RenpyWaveShader) ⭐ 17 | 🐛 1 | 🌐 Ren'Py | 📅 2022-05-23 - A better documented wave shader.
 * [Outline shader](https://github.com/RenpyRemix/outline-shader) ⭐ 15 | 🐛 2 | 🌐 Ren'Py | 📅 2021-04-11 - Adds outlines to arbitrary objects.
@@ -412,7 +412,7 @@ These are software unto themselves.
 
 #### Unpacking and decompilation
 
-* [unrpyc](https://github.com/CensoredUsername/unrpyc) ⭐ 1,228 | 🐛 11 | 🌐 Ren'Py | 📅 2026-02-24 - The `*.rpyc` file decompiler.
+* [unrpyc](https://github.com/CensoredUsername/unrpyc) ⭐ 1,229 | 🐛 11 | 🌐 Ren'Py | 📅 2026-02-24 - The `*.rpyc` file decompiler.
 * [unrpa](https://github.com/Lattyware/unrpa) ⭐ 754 | 🐛 20 | 🌐 Python | 📅 2022-06-27 - The most famous RPA archive extractor.
 * [rpatool](https://github.com/Shizmob/rpatool) ⚠️ Archived - The less famous RPA archive extractor.
 * [RPA Explorer](https://github.com/UniverseDevel/RPA-Explorer) ⭐ 102 | 🐛 2 | 🌐 JavaScript | 📅 2025-05-10 - Graphical explorer for RenPy Archives built around a C# library to manipulate them. Can also invoke `unrpyc` on the contents.
@@ -550,7 +550,7 @@ Most of these are only useful to produce background images, as getting the detai
 
 Things that are awesome but not really very useful go here.
 
-* [RenAI-Chat](https://github.com/Rubiksman78/RenAI-Chat) ⭐ 74 | 🐛 4 | 🌐 Python | 📅 2023-05-24 - A RenPy-based chatbot interface.
+* [RenAI-Chat](https://github.com/Rubiksman78/RenAI-Chat) ⭐ 73 | 🐛 4 | 🌐 Python | 📅 2023-05-24 - A RenPy-based chatbot interface.
 
 ## Support
 
@@ -563,15 +563,15 @@ You can find a community of RenPy users in your language, provided it's one of:
 
 ## Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,139 | 🐛 103 | 📅 2026-06-30, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,199 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,611 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
+Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,568 | 🐛 102 | 📅 2026-08-18, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,199 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
 
 Those should be of particular interest for RenPy users:
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,580 | 🐛 16 | 🌐 Python | 📅 2026-08-16
-* [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,363 | 🐛 0 | 📅 2023-08-21
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,796 | 🐛 18 | 🌐 Python | 📅 2026-08-16
+* [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,364 | 🐛 0 | 📅 2023-08-21
 * [magictools](https://github.com/ellisonleao/magictool)
 * [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
