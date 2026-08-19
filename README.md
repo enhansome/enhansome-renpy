@@ -335,7 +335,7 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 
 Shaders are the most arcane part of RenPy, because they require branching into [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language), while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.
 
-* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,742 | 🐛 291 | 🌐 Ren'Py | 📅 2026-08-19 - An alternative implementation of blur that overrides the stock blur.
+* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,743 | 🐛 290 | 🌐 Ren'Py | 📅 2026-08-19 - An alternative implementation of blur that overrides the stock blur.
 * [renpy-blend-modes](https://github.com/CrossCouloir/renpy-blend-modes) ⭐ 24 | 🐛 1 | 🌐 Ren'Py | 📅 2025-12-14 - Shader-based Photoshop-style blend modes for images. Only soft light is implemented.
 * [Wave shader](https://github.com/SoDaRa/RenpyWaveShader) ⭐ 17 | 🐛 1 | 🌐 Ren'Py | 📅 2022-05-23 - A better documented wave shader.
 * [Outline shader](https://github.com/RenpyRemix/outline-shader) ⭐ 15 | 🐛 2 | 🌐 Ren'Py | 📅 2021-04-11 - Adds outlines to arbitrary objects.
@@ -563,11 +563,11 @@ You can find a community of RenPy users in your language, provided it's one of:
 
 ## Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,568 | 🐛 102 | 📅 2026-08-18, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,199 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
+Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,669 | 🐛 102 | 📅 2026-08-18, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,199 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
 
 Those should be of particular interest for RenPy users:
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,796 | 🐛 18 | 🌐 Python | 📅 2026-08-16
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,858 | 🐛 18 | 🌐 Python | 📅 2026-08-16
 * [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,364 | 🐛 0 | 📅 2023-08-21
 * [magictools](https://github.com/ellisonleao/magictool)
 * [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools)

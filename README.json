@@ -953,7 +953,7 @@
                 "last_commit": "2026-08-19T06:44:00Z",
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6742
+                "stars": 6743
               }
             },
             {
@@ -1731,7 +1731,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314796
+            "stars": 314858
           }
         },
         {
@@ -1754,8 +1754,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:49:37.767Z",
+    "last_updated": "2026-08-19T12:52:45.096Z",
     "original_repository": "methanoliver/awesome-renpy",
+    "original_repository_id": 536685066,
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
     "enhanced_repository": "enhansome/enhansome-renpy",
     "enhanced_repository_description": null,
