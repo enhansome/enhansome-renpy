@@ -953,7 +953,7 @@
                 "last_commit": "2026-08-19T06:44:00Z",
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6743
+                "stars": 6744
               }
             },
             {
@@ -1107,7 +1107,7 @@
                 "archived": false,
                 "id": 129648853,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-18T21:15:49Z",
+                "last_commit": "2026-08-19T21:39:18Z",
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
                 "stars": 41
@@ -1496,7 +1496,7 @@
                     "archived": false,
                     "id": 614653662,
                     "language": "Python",
-                    "last_commit": "2026-08-18T18:37:28Z",
+                    "last_commit": "2026-08-19T23:09:36Z",
                     "owner": "dcbaker",
                     "repo": "flatpaker",
                     "stars": 4
@@ -1731,7 +1731,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314858
+            "stars": 315049
           }
         },
         {
@@ -1754,7 +1754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:52:45.096Z",
+    "last_updated": "2026-08-20T08:50:36.944Z",
     "original_repository": "methanoliver/awesome-renpy",
     "original_repository_id": 536685066,
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
