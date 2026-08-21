@@ -618,21 +618,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "RenPyGlitch",
-                  "description": "A different implementation of a glitch effect. Documentation in Russian.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 100646559,
-                    "language": "Ren'Py",
-                    "last_commit": "2023-03-29T10:17:20Z",
-                    "owner": "NyashniyVladya",
-                    "repo": "RenPyGlitchs",
-                    "stars": 23
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "SWHolo",
                   "description": "Star Wars hologram effect.",
                   "children": [],
@@ -644,6 +629,21 @@
                     "owner": "Gouvernathor",
                     "repo": "renpy-SWHolo",
                     "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RenPyGlitch",
+                  "description": "A different implementation of a glitch effect. Documentation in Russian.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 100646559,
+                    "language": "Ren'Py",
+                    "last_commit": "2023-03-29T10:17:20Z",
+                    "owner": "NyashniyVladya",
+                    "repo": "RenPyGlitchs",
+                    "stars": 22
                   }
                 }
               ],
@@ -950,10 +950,10 @@
                 "archived": false,
                 "id": 4815490,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-19T06:44:00Z",
+                "last_commit": "2026-08-21T03:58:01Z",
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6744
+                "stars": 6745
               }
             },
             {
@@ -1107,7 +1107,7 @@
                 "archived": false,
                 "id": 129648853,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-19T21:39:18Z",
+                "last_commit": "2026-08-20T21:41:42Z",
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
                 "stars": 41
@@ -1731,7 +1731,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315049
+            "stars": 315224
           }
         },
         {
@@ -1746,7 +1746,7 @@
             "last_commit": "2023-08-21T17:06:46Z",
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1364
+            "stars": 1363
           }
         }
       ],
@@ -1754,7 +1754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:50:36.944Z",
+    "last_updated": "2026-08-21T08:52:46.856Z",
     "original_repository": "methanoliver/awesome-renpy",
     "original_repository_id": 536685066,
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
