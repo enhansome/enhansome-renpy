@@ -419,7 +419,7 @@
                 "last_commit": "2024-07-29T08:41:40Z",
                 "owner": "DRincs-Productions",
                 "repo": "NQTR-System",
-                "stars": 50
+                "stars": 51
               }
             },
             {
@@ -950,10 +950,10 @@
                 "archived": false,
                 "id": 4815490,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-23T08:30:17Z",
+                "last_commit": "2026-08-24T08:30:18Z",
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6755
+                "stars": 6759
               }
             },
             {
@@ -1107,7 +1107,7 @@
                 "archived": false,
                 "id": 129648853,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-22T23:10:49Z",
+                "last_commit": "2026-08-23T13:29:40Z",
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
                 "stars": 41
@@ -1496,7 +1496,7 @@
                     "archived": false,
                     "id": 614653662,
                     "language": "Python",
-                    "last_commit": "2026-08-21T22:38:51Z",
+                    "last_commit": "2026-08-24T03:16:37Z",
                     "owner": "dcbaker",
                     "repo": "flatpaker",
                     "stars": 4
@@ -1728,10 +1728,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-23T08:02:10Z",
+            "last_commit": "2026-08-24T06:42:58Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315582
+            "stars": 315753
           }
         },
         {
@@ -1754,7 +1754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:42:03.598Z",
+    "last_updated": "2026-08-24T08:58:47.485Z",
     "original_repository": "methanoliver/awesome-renpy",
     "original_repository_id": 536685066,
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
