@@ -72,15 +72,15 @@ That is, of course, no excuse not to read it, but if that was not helpful:
 
 ### Python
 
+* [Free Python Books](https://github.com/pamoroso/free-python-books) ⚠️ Archived - A list of Python books in English that are free to read online or download.
 * [Feniks Development](https://feniksdev.com/navigation/) - In-depth explanations of basic programming notions as they relate to RenPy.
 * [Python Tips](https://book.pythontips.com/en/latest/index.html) - While not specifically RenPy related, so a number of sections dealing with the operating environment are not relevant, this book will aid people who already know the very basics of Python.
 * [getting your head around Ren'py: for coders](https://lemmasoft.renai.us/forums/viewtopic.php?f=51\&t=39572#p422964) - Explains the unusual things about RenPy for people with experience of more regular programming languages.
-* [Free Python Books](https://github.com/pamoroso/free-python-books) ⚠️ Archived - A list of Python books in English that are free to read online or download.
 
 ### Specific
 
-* [Ren'Py Tutorial - LayeredImage](https://tofurocks.itch.io/renpytut-layeredimage) - Complexities of `layeredimage` by example.
 * [Reading Screen Language Documentation](https://github.com/jbondguy007/reading-renpy-screens-docs) ⭐ 3 | 🐛 0 | 📅 2021-05-19 - A treatise on understanding screen language documentation.
+* [Ren'Py Tutorial - LayeredImage](https://tofurocks.itch.io/renpytut-layeredimage) - Complexities of `layeredimage` by example.
 * [Implementing Translations](https://mysterycorgi.itch.io/renpy-tips/devlog/74300/implementing-translations) - Detailed explanation of how to translate a project into multiple languages.
 * [Ren'Py Visual Novels on Steam Guide](https://docs.google.com/document/d/1La4Pg72Wzpo1cPFFPk_g8Wjkl-MwLG2Qunwu65Ovl5w/edit) - A comprehensive guide with screenshots for getting your Ren’Py based game onto Steam.
 
@@ -132,9 +132,9 @@ Explanations on the use of a particular feature.
 
 Details on what you need to do to get your project to run on a particular platform.
 
+* [Steam Deck Guide](https://github.com/renpy/steam-deck-guide) ⚠️ Archived - How to get your project to pass Steam Deck compatibility review.
 * [Android Adaptive Icons in Ren’Py](https://patreon.renpy.org/android-icons.html)
 * [Notarizing Mac Applications](https://patreon.renpy.org/macos-notarization.html#notarizing-mac-applications) - How to notarize your OSX releases.
-* [Steam Deck Guide](https://github.com/renpy/steam-deck-guide) ⚠️ Archived - How to get your project to pass Steam Deck compatibility review.
 
 #### Interoperability
 
@@ -249,11 +249,11 @@ Not all of these are confirmed to work in current versions of RenPy.
 
 #### Text
 
+* [Pronouns class](https://github.com/Gouvernathor/renpy-PronounsClass) ⭐ 5 | 🐛 0 | 🌐 Ren'Py | 📅 2022-09-22 - A class to handle character pronouns.
 * [Experiments in Ren'Py Heresy](https://gist.github.com/kobaltcore/2d2d913e513d25f02f4800e41fbbee8d) - Several undocumented text effects.
 * Three alternate takes on how to give the player a preview of text printed with a certain given CPS: [by Oliver](https://gist.github.com/methanoliver/bbb026b2c6daeb9b7aae508314e30cfd), [by Lezalith](https://gist.github.com/Lezalith/f6ea469f10f10d21f53c2c5f592cd12f), [by Feniks](https://gist.github.com/shawna-p/3a12772369af03b85b25196275412868)
 * [Subscript and superscript text tags](https://gist.github.com/methanoliver/fb2ef18de4c23fadbb23b13fa3d10d48)
 * [Smallcaps text tag](https://gist.github.com/methanoliver/166c18caa224fa15ead6dca95cccbb05)
-* [Pronouns class](https://github.com/Gouvernathor/renpy-PronounsClass) ⭐ 5 | 🐛 0 | 🌐 Ren'Py | 📅 2022-09-22 - A class to handle character pronouns.
 * [Window-fixed CTC](https://gist.github.com/methanoliver/7671cbcabe46bcc8a0f757ba195bb1a4) - how to position a CTC relative to a window, rather than fixed on the screen or relative to the last printed line.
 * [Two-column NVL mode](https://gist.github.com/methanoliver/cb6ae08d432d9395cff65975733599ab) - How to have your NVL screen display two columns of text, filling one after the other in a semi-automatic fashion.
 
@@ -287,12 +287,12 @@ Not all of these are confirmed to work in current versions of RenPy.
 
 #### User interface
 
+* [Conditional main menu background](https://github.com/jbondguy007/Renpy-tutorial-conditional-main-menu-background) ⭐ 3 | 🐛 0 | 🌐 Ren'Py | 📅 2023-03-13 - An extensive tutorial on how to change a main menu background based on game state.
 * [Scrollbutton](https://gist.github.com/midgethetree/b210ddadfb07e85873022fde0202f646) - A button to scroll a viewport.
 * [Continue button](https://lemmasoft.renai.us/forums/viewtopic.php?f=51\&t=48154#p477769) - Multiple methods to create a 'Continue' main menu button that would load the most recent save game.
 * [One-screen visual novel](https://lemmasoft.renai.us/forums/viewtopic.php?f=51\&t=37055#p402373) - that is, how to disable the entire game menu and jump straight into the body of the novel.
 * [Main Menu with a Video Background](https://lemmasoft.renai.us/forums/viewtopic.php?f=51\&t=47193#p472755) - This gets asked on average once a week.
 * [Button "PRESSED" state](https://lemmasoft.renai.us/forums/viewtopic.php?f=8\&t=57848\&sid=95776df5d873ef265bcf05244d317495) - How to detect that an on-screen button is being held down, rather than just clicked.
-* [Conditional main menu background](https://github.com/jbondguy007/Renpy-tutorial-conditional-main-menu-background) ⭐ 3 | 🐛 0 | 🌐 Ren'Py | 📅 2023-03-13 - An extensive tutorial on how to change a main menu background based on game state.
 
 #### Other snippets
 
@@ -335,7 +335,7 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 
 Shaders are the most arcane part of RenPy, because they require branching into [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language), while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.
 
-* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,759 | 🐛 299 | 🌐 Ren'Py | 📅 2026-08-24 - An alternative implementation of blur that overrides the stock blur.
+* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,760 | 🐛 300 | 🌐 Ren'Py | 📅 2026-08-24 - An alternative implementation of blur that overrides the stock blur.
 * [renpy-blend-modes](https://github.com/CrossCouloir/renpy-blend-modes) ⭐ 24 | 🐛 1 | 🌐 Ren'Py | 📅 2025-12-14 - Shader-based Photoshop-style blend modes for images. Only soft light is implemented.
 * [Wave shader](https://github.com/SoDaRa/RenpyWaveShader) ⭐ 17 | 🐛 1 | 🌐 Ren'Py | 📅 2022-05-23 - A better documented wave shader.
 * [Outline shader](https://github.com/RenpyRemix/outline-shader) ⭐ 15 | 🐛 2 | 🌐 Ren'Py | 📅 2021-04-11 - Adds outlines to arbitrary objects.
@@ -563,11 +563,11 @@ You can find a community of RenPy users in your language, provided it's one of:
 
 ## Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,410 | 🐛 106 | 📅 2026-08-21, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,201 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02.
+Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,201 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02.
 
 Those should be of particular interest for RenPy users:
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,753 | 🐛 17 | 🌐 Python | 📅 2026-08-24
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,800 | 🐛 17 | 🌐 Python | 📅 2026-08-24
 * [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,363 | 🐛 0 | 📅 2023-08-21
 * [magictools](https://github.com/ellisonleao/magictool)
 * [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools)

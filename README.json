@@ -1,6 +1,85 @@
 {
   "items": [
     {
+      "description": "RenPy's own documentation is somewhat scattered, at times incomplete, and often, insufficiently detailed.\nThat is, of course, no excuse not to read it, but if that was not helpful:",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Free Python Books",
+              "description": "A list of Python books in English that are free to read online or download.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 173317769,
+                "language": null,
+                "last_commit": "2024-03-18T16:33:56Z",
+                "owner": "pamoroso",
+                "repo": "free-python-books",
+                "stars": 5094
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Reading Screen Language Documentation",
+              "description": "A treatise on understanding screen language documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368747092,
+                "language": null,
+                "last_commit": "2021-05-19T16:51:21Z",
+                "owner": "jbondguy007",
+                "repo": "reading-renpy-screens-docs",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Specific"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Steam Deck Guide",
+                  "description": "How to get your project to pass Steam Deck compatibility review.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 472045142,
+                    "language": "Python",
+                    "last_commit": "2022-05-16T03:13:45Z",
+                    "owner": "renpy",
+                    "repo": "steam-deck-guide",
+                    "stars": 22
+                  }
+                }
+              ],
+              "description": "Details on what you need to do to get your project to run on a particular platform.",
+              "node_type": "group",
+              "title": "Platform support details"
+            }
+          ],
+          "description": "These are articles from PyTom's Patreon, most of which explain a certain feature in more detail than the manual does and provide example code.",
+          "node_type": "group",
+          "title": "Patreon articles"
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
       "description": "Templates to start off a new project containing commonly requested features a stock RenPy new project does not offer.",
       "items": [
         {
@@ -603,6 +682,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Pronouns class",
+                  "description": "A class to handle character pronouns.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 285550176,
+                    "language": "Ren'Py",
+                    "last_commit": "2022-09-22T18:43:59Z",
+                    "owner": "Gouvernathor",
+                    "repo": "renpy-PronounsClass",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Text"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "ChromaGlitch",
                   "description": "Glitch effect.",
                   "children": [],
@@ -769,6 +870,28 @@
               "description": null,
               "node_type": "group",
               "title": "Displayables"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Conditional main menu background",
+                  "description": "An extensive tutorial on how to change a main menu background based on game state.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 552230671,
+                    "language": "Ren'Py",
+                    "last_commit": "2023-03-13T05:04:25Z",
+                    "owner": "jbondguy007",
+                    "repo": "Renpy-tutorial-conditional-main-menu-background",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "User interface"
             },
             {
               "children": [
@@ -953,7 +1076,7 @@
                 "last_commit": "2026-08-24T08:30:18Z",
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6759
+                "stars": 6760
               }
             },
             {
@@ -1717,6 +1840,70 @@
       "title": "Tools"
     },
     {
+      "description": "No visual novel is complete without artwork and sound. Beware and carefully observe the license terms!",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Krita",
+                  "description": "The best open source paint program.",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Generate Ren'Py Scripting",
+                      "description": "A plugin for Krita, outputs a block of Ren'Py script to display the images of the active Krita document as they appear on the canvas, working in tandem with the krita-batch-exporter.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 459874260,
+                        "language": "Python",
+                        "last_commit": "2025-05-05T01:11:01Z",
+                        "owner": "SeanHRN",
+                        "repo": "krita-renpy-scripter",
+                        "stars": 9
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Graphics"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FFMpeg",
+                  "description": "the Swiss army knife of video and audio format conversion and filtering. If you need a GUI for it, there's QWinFF, Axiom, Videomass, to name but a few.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 78952311,
+                    "language": "C#",
+                    "last_commit": "2021-11-09T09:26:21Z",
+                    "owner": "MattMcManis",
+                    "repo": "Axiom",
+                    "stars": 1710
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Video"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Asset editing tools"
+        }
+      ],
+      "title": "Assets"
+    },
+    {
       "description": "Other amazingly awesome lists can be found in awesome, awesome-awesome and awesome-awesomeness.\nThose should be of particular interest for RenPy users:",
       "items": [
         {
@@ -1731,7 +1918,7 @@
             "last_commit": "2026-08-24T06:42:58Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315753
+            "stars": 315800
           }
         },
         {
@@ -1754,7 +1941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:58:47.485Z",
+    "last_updated": "2026-08-24T14:26:38.160Z",
     "original_repository": "methanoliver/awesome-renpy",
     "original_repository_id": 536685066,
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
