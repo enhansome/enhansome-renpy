@@ -1073,10 +1073,10 @@
                 "archived": false,
                 "id": 4815490,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-24T08:30:18Z",
+                "last_commit": "2026-08-25T01:40:53Z",
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6760
+                "stars": 6761
               }
             },
             {
@@ -1230,7 +1230,7 @@
                 "archived": false,
                 "id": 129648853,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-23T13:29:40Z",
+                "last_commit": "2026-08-25T00:22:21Z",
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
                 "stars": 41
@@ -1644,7 +1644,7 @@
                     "last_commit": "2026-02-24T14:48:19Z",
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1232
+                    "stars": 1233
                   }
                 },
                 {
@@ -1659,7 +1659,7 @@
                     "last_commit": "2022-06-27T12:05:29Z",
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 754
+                    "stars": 755
                   }
                 },
                 {
@@ -1915,10 +1915,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-24T06:42:58Z",
+            "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315800
+            "stars": 315922
           }
         },
         {
@@ -1941,7 +1941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:38.160Z",
+    "last_updated": "2026-08-25T06:17:41.359Z",
     "original_repository": "methanoliver/awesome-renpy",
     "original_repository_id": 536685066,
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
