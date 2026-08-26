@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-18T16:33:56Z",
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5094
+                "stars": 5092
               }
             }
           ],
@@ -1073,10 +1073,10 @@
                 "archived": false,
                 "id": 4815490,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-25T01:40:53Z",
+                "last_commit": "2026-08-26T01:45:37Z",
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6762
+                "stars": 6764
               }
             },
             {
@@ -1230,7 +1230,7 @@
                 "archived": false,
                 "id": 129648853,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-25T00:22:21Z",
+                "last_commit": "2026-08-25T21:55:09Z",
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
                 "stars": 41
@@ -1619,7 +1619,7 @@
                     "archived": false,
                     "id": 614653662,
                     "language": "Python",
-                    "last_commit": "2026-08-24T03:16:37Z",
+                    "last_commit": "2026-08-26T01:01:34Z",
                     "owner": "dcbaker",
                     "repo": "flatpaker",
                     "stars": 4
@@ -1644,7 +1644,7 @@
                     "last_commit": "2026-02-24T14:48:19Z",
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1233
+                    "stars": 1235
                   }
                 },
                 {
@@ -1659,7 +1659,7 @@
                     "last_commit": "2022-06-27T12:05:29Z",
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 755
+                    "stars": 756
                   }
                 },
                 {
@@ -1918,7 +1918,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315935
+            "stars": 316128
           }
         },
         {
@@ -1941,7 +1941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:53:44.199Z",
+    "last_updated": "2026-08-26T08:55:38.485Z",
     "original_repository": "methanoliver/awesome-renpy",
     "original_repository_id": 536685066,
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
