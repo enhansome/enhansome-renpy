@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-18T16:33:56Z",
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5092
+                "stars": 5093
               }
             }
           ],
@@ -1073,10 +1073,10 @@
                 "archived": false,
                 "id": 4815490,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-26T01:45:37Z",
+                "last_commit": "2026-08-27T01:01:43Z",
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6764
+                "stars": 6768
               }
             },
             {
@@ -1230,7 +1230,7 @@
                 "archived": false,
                 "id": 129648853,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-25T21:55:09Z",
+                "last_commit": "2026-08-26T21:51:00Z",
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
                 "stars": 41
@@ -1619,7 +1619,7 @@
                     "archived": false,
                     "id": 614653662,
                     "language": "Python",
-                    "last_commit": "2026-08-26T01:01:34Z",
+                    "last_commit": "2026-08-26T21:35:21Z",
                     "owner": "dcbaker",
                     "repo": "flatpaker",
                     "stars": 4
@@ -1659,7 +1659,7 @@
                     "last_commit": "2022-06-27T12:05:29Z",
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 756
+                    "stars": 757
                   }
                 },
                 {
@@ -1918,7 +1918,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316128
+            "stars": 316384
           }
         },
         {
@@ -1933,7 +1933,7 @@
             "last_commit": "2023-08-21T17:06:46Z",
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1363
+            "stars": 1365
           }
         }
       ],
@@ -1941,9 +1941,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:55:38.485Z",
-    "original_repository": "methanoliver/awesome-renpy",
-    "original_repository_id": 536685066,
+    "last_updated": "2026-08-27T12:04:52.664Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 536685066,
+      "language": null,
+      "last_commit": "2026-08-10T07:01:18Z",
+      "owner": "methanoliver",
+      "repo": "awesome-renpy",
+      "stars": 378
+    },
     "original_repository_sha": "852b87b110fd8b071dd9b8ec81079871bac3041e",
     "enhanced_repository": "enhansome/enhansome-renpy",
     "enhanced_repository_description": null,
