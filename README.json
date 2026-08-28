@@ -18,7 +18,8 @@
                 "owner": "pamoroso",
                 "repo": "free-python-books",
                 "stars": 5093
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "jbondguy007",
                 "repo": "reading-renpy-screens-docs",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": null,
@@ -64,7 +66,8 @@
                     "owner": "renpy",
                     "repo": "steam-deck-guide",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": "Details on what you need to do to get your project to run on a particular platform.",
@@ -95,7 +98,8 @@
             "owner": "RuolinZheng08",
             "repo": "renpy-template",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T20:10:15.904Z"
         },
         {
           "node_type": "item",
@@ -110,7 +114,8 @@
             "owner": "shawna-p",
             "repo": "EasyRenPyGui",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T20:10:15.904Z"
         },
         {
           "node_type": "item",
@@ -125,7 +130,8 @@
             "owner": "enaielei",
             "repo": "renpy-minimal-template",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:10:15.904Z"
         }
       ],
       "title": "Project templates"
@@ -148,7 +154,8 @@
                 "owner": "DRincs-Productions",
                 "repo": "Renpygame",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -163,7 +170,8 @@
                 "owner": "abduelhamit",
                 "repo": "renpy-ingame-console",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -178,7 +186,8 @@
                 "owner": "alexkrob",
                 "repo": "dynamicsprites",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -193,7 +202,8 @@
                 "owner": "shawna-p",
                 "repo": "renpy-color-picker",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -208,7 +218,8 @@
                 "owner": "RenpyRemix",
                 "repo": "extra-animated-value",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -223,7 +234,8 @@
                 "owner": "njunius",
                 "repo": "Puppitor",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": null,
@@ -245,7 +257,8 @@
                 "owner": "Lezalith",
                 "repo": "RenPy-Discord-Presence",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -260,7 +273,8 @@
                 "owner": "CharlieFuu69",
                 "repo": "RenPyHub-Plugin",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -275,7 +289,8 @@
                 "owner": "Xrisofor",
                 "repo": "RDAA",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -290,7 +305,8 @@
                 "owner": "multimokia",
                 "repo": "Renpy-Weather-Utils",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": null,
@@ -312,7 +328,8 @@
                 "owner": "SoDaRa",
                 "repo": "Kinetic-Text-Tags",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -327,7 +344,8 @@
                 "owner": "jsfehler",
                 "repo": "renpy-encyclopaedia",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -342,7 +360,8 @@
                 "owner": "RenpyRemix",
                 "repo": "speech-bubbles",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -357,7 +376,8 @@
                 "owner": "yukinogatari",
                 "repo": "Ren-Py-FancyText",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -372,7 +392,8 @@
                 "owner": "Wendy-Nam",
                 "repo": "RenPy-Lipsync-Plugin",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -387,7 +408,8 @@
                 "owner": "Elckarow",
                 "repo": "Autofocus",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -402,7 +424,8 @@
                 "owner": "valery-iwanofu",
                 "repo": "renpy-word-description",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -417,7 +440,8 @@
                 "owner": "Lezalith",
                 "repo": "renpy-rainbowtext",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -432,7 +456,8 @@
                 "owner": "pixelpixi",
                 "repo": "spritewright",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": null,
@@ -454,7 +479,8 @@
                 "owner": "Habitacle",
                 "repo": "battle-engine",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -469,7 +495,8 @@
                 "owner": "renpy",
                 "repo": "dse",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -484,7 +511,8 @@
                 "owner": "DRincs-Productions",
                 "repo": "DS-toolkit",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -499,7 +527,8 @@
                 "owner": "DRincs-Productions",
                 "repo": "NQTR-System",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -514,7 +543,8 @@
                 "owner": "renpy",
                 "repo": "cardgame",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": null,
@@ -536,7 +566,8 @@
                 "owner": "Elckarow",
                 "repo": "Better-EMR-Phone",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -551,7 +582,8 @@
                 "owner": "sDextra",
                 "repo": "messenger-emulator",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -566,7 +598,8 @@
                 "owner": "UnscriptedVN",
                 "repo": "candella",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -581,7 +614,8 @@
                 "owner": "JimTheCactus",
                 "repo": "chatlogging",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -596,7 +630,8 @@
                 "owner": "albireogames",
                 "repo": "renpy_phone",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": null,
@@ -618,7 +653,8 @@
                 "owner": "Bronya-Rand",
                 "repo": "RenPy-Universal-Player",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -633,7 +669,8 @@
                 "owner": "shawna-p",
                 "repo": "renpy-achievement",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -648,7 +685,8 @@
                 "owner": "cheonbyeol",
                 "repo": "RenPy-GalleryPlus",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -663,7 +701,8 @@
                 "owner": "Numerlor",
                 "repo": "renpy-gallery-inject",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": "In a classic Japanese title, these would go into making the contents of an \"Extras\" menu.",
@@ -693,7 +732,8 @@
                     "owner": "Gouvernathor",
                     "repo": "renpy-PronounsClass",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": null,
@@ -715,7 +755,8 @@
                     "owner": "Gouvernathor",
                     "repo": "renpy-ChromaGlitch",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -730,7 +771,8 @@
                     "owner": "Gouvernathor",
                     "repo": "renpy-SWHolo",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -745,7 +787,8 @@
                     "owner": "NyashniyVladya",
                     "repo": "RenPyGlitchs",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": null,
@@ -767,7 +810,8 @@
                     "owner": "AgentAlpha81",
                     "repo": "RenPyParticles",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -782,7 +826,8 @@
                     "owner": "Thediamondcryst",
                     "repo": "Ren-Py-Free-to-Use-Falling-Leaves",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -797,7 +842,8 @@
                     "owner": "jsfehler",
                     "repo": "renpy-projection-starfield",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -812,7 +858,8 @@
                     "owner": "Thediamondcryst",
                     "repo": "Ren-Py-Free-To-Use-Moving-Clouds",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": null,
@@ -834,7 +881,8 @@
                     "owner": "jsfehler",
                     "repo": "renpy-radarchart",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -849,7 +897,8 @@
                     "owner": "RuolinZheng08",
                     "repo": "renpy-static-chessboard",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -864,7 +913,8 @@
                     "owner": "williamd1k0",
                     "repo": "renpy-analog-clock",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": null,
@@ -886,7 +936,8 @@
                     "owner": "jbondguy007",
                     "repo": "Renpy-tutorial-conditional-main-menu-background",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": null,
@@ -908,7 +959,8 @@
                     "owner": "jsfehler",
                     "repo": "renpy-freehand-draw",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -923,7 +975,8 @@
                     "owner": "lolabray",
                     "repo": "Renpy-lovense-boilerplate",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -938,7 +991,8 @@
                     "owner": "valery-iwanofu",
                     "repo": "rapt-yandex-ads",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -953,7 +1007,8 @@
                     "owner": "Ayowel",
                     "repo": "renpy-extension-demo",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": "These are useful, but difficult to categorize.",
@@ -980,7 +1035,8 @@
                 "owner": "RuolinZheng08",
                 "repo": "renpy-rhythm",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -995,7 +1051,8 @@
                 "owner": "CharlieFuu69",
                 "repo": "RenPy_RhythmBeats",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1010,7 +1067,8 @@
                 "owner": "pass-by-reference",
                 "repo": "renpy-space-invaders",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1025,7 +1083,8 @@
                 "owner": "NyashniyVladya",
                 "repo": "RenPyDraw",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1040,7 +1099,8 @@
                 "owner": "limnological",
                 "repo": "renpy-go",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1055,7 +1115,8 @@
                 "owner": "ShadowXJaw724",
                 "repo": "Renpy_Shooter",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": "Self-contained minigames can occasionally be found. Some assembly is usually required.",
@@ -1073,11 +1134,12 @@
                 "archived": false,
                 "id": 4815490,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-27T01:01:43Z",
+                "last_commit": "2026-08-28T19:10:22Z",
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6770
-              }
+                "stars": 6774
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1092,7 +1154,8 @@
                 "owner": "CrossCouloir",
                 "repo": "renpy-blend-modes",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1107,7 +1170,8 @@
                 "owner": "SoDaRa",
                 "repo": "RenpyWaveShader",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1122,7 +1186,8 @@
                 "owner": "RenpyRemix",
                 "repo": "outline-shader",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1137,7 +1202,8 @@
                 "owner": "valery-iwanofu",
                 "repo": "renpy-shader-collection",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1152,7 +1218,8 @@
                 "owner": "AgentAlpha81",
                 "repo": "RGB-Split",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1167,7 +1234,8 @@
                 "owner": "WatercressStudios",
                 "repo": "Renpy-GLSL-Test",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": "Shaders are the most arcane part of RenPy, because they require branching into GLSL, while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.",
@@ -1189,7 +1257,8 @@
                 "owner": "freeCodeCamp",
                 "repo": "LearnToCodeRPG",
                 "stars": 1133
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1203,8 +1272,9 @@
                 "last_commit": "2023-04-18T18:03:28Z",
                 "owner": "SecondThundeR",
                 "repo": "DokiDoki-RenPy",
-                "stars": 198
-              }
+                "stars": 199
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1219,7 +1289,8 @@
                 "owner": "Rubiksman78",
                 "repo": "MonikA.I",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1230,11 +1301,12 @@
                 "archived": false,
                 "id": 129648853,
                 "language": "Ren'Py",
-                "last_commit": "2026-08-26T21:51:00Z",
+                "last_commit": "2026-08-27T21:37:08Z",
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1249,7 +1321,8 @@
                 "owner": "gcammisa",
                 "repo": "KatawaShoujo-RenPy8",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1264,7 +1337,8 @@
                 "owner": "moonlitworks",
                 "repo": "carpe-diem",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1279,7 +1353,8 @@
                 "owner": "moonlitworks",
                 "repo": "without-romance",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": "Occasionally, entire games are published as open source, though not necessarily free. Whenever they contain anything useful as example code, they go in this section.",
@@ -1307,7 +1382,8 @@
                 "owner": "kyouryuukunn",
                 "repo": "renpy-ActionEditor3",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1322,7 +1398,8 @@
                 "owner": "Gouvernathor",
                 "repo": "renpy-TranslationTools",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1337,7 +1414,8 @@
                 "owner": "Elckarow",
                 "repo": "Expreviewer",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1352,7 +1430,8 @@
                 "owner": "Moshibit",
                 "repo": "RenPy_automatic_translations",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1367,7 +1446,8 @@
                 "owner": "Ayowel",
                 "repo": "renpy-demotools",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1382,7 +1462,8 @@
                 "owner": "picobyte",
                 "repo": "RVRE",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": "These are meant to be built into the project at least during development, and thus are a cross between libraries and standalone tools.",
@@ -1406,7 +1487,8 @@
                     "owner": "EwenQuim",
                     "repo": "renpy-graphviz",
                     "stars": 179
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1421,7 +1503,8 @@
                     "owner": "lugia19",
                     "repo": "renpyDialogToAudio",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1436,7 +1519,8 @@
                     "owner": "williamyang98",
                     "repo": "ScriptEditor",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1451,7 +1535,8 @@
                     "owner": "devorbitus",
                     "repo": "vnproofer",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1466,7 +1551,8 @@
                     "owner": "tiliv",
                     "repo": "renpy-vscode-template",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1481,7 +1567,8 @@
                     "owner": "kobaltcore",
                     "repo": "renpyfmt",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1496,7 +1583,8 @@
                     "owner": "LuqueDaniel",
                     "repo": "vscode-language-renpy",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1511,7 +1599,8 @@
                     "owner": "KagariSoft",
                     "repo": "renxel",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1526,7 +1615,8 @@
                     "owner": "gameboxthing",
                     "repo": "renpy_parser",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1541,7 +1631,8 @@
                     "owner": "Noxgrim",
                     "repo": "renpydeskgen",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1556,7 +1647,8 @@
                     "owner": "b1f6c1c4",
                     "repo": "renpy-counter",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": null,
@@ -1578,7 +1670,8 @@
                     "owner": "ProjectAliceDev",
                     "repo": "renpy-build-action",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1593,7 +1686,8 @@
                     "owner": "kobaltcore",
                     "repo": "renkit",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1608,7 +1702,8 @@
                     "owner": "ProjectAliceDev",
                     "repo": "renpy-lint-action",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1619,11 +1714,12 @@
                     "archived": false,
                     "id": 614653662,
                     "language": "Python",
-                    "last_commit": "2026-08-26T21:35:21Z",
+                    "last_commit": "2026-08-28T16:46:06Z",
                     "owner": "dcbaker",
                     "repo": "flatpaker",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": null,
@@ -1644,8 +1740,9 @@
                     "last_commit": "2026-02-24T14:48:19Z",
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1235
-                  }
+                    "stars": 1238
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1659,8 +1756,9 @@
                     "last_commit": "2022-06-27T12:05:29Z",
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 757
-                  }
+                    "stars": 758
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1675,7 +1773,8 @@
                     "owner": "shizmob",
                     "repo": "rpatool",
                     "stars": 631
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1690,7 +1789,8 @@
                     "owner": "UniverseDevel",
                     "repo": "RPA-Explorer",
                     "stars": 102
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1705,7 +1805,8 @@
                     "owner": "drdrr",
                     "repo": "RenPy-UnAPK",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1720,7 +1821,8 @@
                     "owner": "m-haisham",
                     "repo": "warpa",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1735,7 +1837,8 @@
                     "owner": "chrsm",
                     "repo": "arpy",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": null,
@@ -1757,7 +1860,8 @@
                     "owner": "TheSchnappi",
                     "repo": "articy2renpy",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1772,7 +1876,8 @@
                     "owner": "RunawayHaggis",
                     "repo": "FDtoRenpy",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1787,7 +1892,8 @@
                     "owner": "SqFKYo",
                     "repo": "articy3_renpy3",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": null,
@@ -1814,7 +1920,8 @@
                 "owner": "NyashniyVladya",
                 "repo": "Translator3000",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             },
             {
               "node_type": "item",
@@ -1829,7 +1936,8 @@
                 "owner": "shizmob",
                 "repo": "renpy2linux",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
             }
           ],
           "description": "These tools are made for end-users, rather than developers.",
@@ -1864,7 +1972,8 @@
                         "owner": "SeanHRN",
                         "repo": "krita-renpy-scripter",
                         "stars": 9
-                      }
+                      },
+                      "first_seen": "2026-08-28T20:10:15.904Z"
                     }
                   ]
                 }
@@ -1888,7 +1997,8 @@
                     "owner": "MattMcManis",
                     "repo": "Axiom",
                     "stars": 1710
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
                 }
               ],
               "description": null,
@@ -1918,8 +2028,9 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316468
-          }
+            "stars": 316741
+          },
+          "first_seen": "2026-08-28T20:10:15.904Z"
         },
         {
           "node_type": "item",
@@ -1934,14 +2045,15 @@
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
             "stars": 1365
-          }
+          },
+          "first_seen": "2026-08-28T20:10:15.904Z"
         }
       ],
       "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:02:17.331Z",
+    "last_updated": "2026-08-28T20:10:15.904Z",
     "original_repository_info": {
       "archived": false,
       "id": 536685066,
