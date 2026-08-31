@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5094,
+                "stars": 5090,
                 "topics": [
                   "free-ebooks",
                   "learning-python",
@@ -1582,8 +1582,8 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-08-30T02:40:52Z",
-                "open_issues": 297,
+                "last_commit": "2026-08-31T05:11:36Z",
+                "open_issues": 296,
                 "owner": "renpy",
                 "repo": "renpy",
                 "stars": 6785,
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-08-30T01:24:22Z",
+                "last_commit": "2026-08-30T23:25:15Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2368,7 +2368,7 @@
                     "open_issues": 3,
                     "owner": "ProjectAliceDev",
                     "repo": "renpy-build-action",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2437,8 +2437,8 @@
                     "id": 614653662,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T20:45:20Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-08-31T15:20:55Z",
+                    "open_issues": 13,
                     "owner": "dcbaker",
                     "repo": "flatpaker",
                     "stars": 4,
@@ -2913,7 +2913,7 @@
             "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 317118,
+            "stars": 317328,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2941,7 +2941,7 @@
             "open_issues": 0,
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1365,
+            "stars": 1366,
             "topics": [
               "computer-graphics",
               "creative-coding",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:46:04.219Z",
+    "last_updated": "2026-08-31T16:06:50.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
@@ -2974,7 +2974,7 @@
       "open_issues": 1,
       "owner": "methanoliver",
       "repo": "awesome-renpy",
-      "stars": 378,
+      "stars": 379,
       "topics": [
         "awesome",
         "awesome-list",
