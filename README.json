@@ -1582,11 +1582,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-09-02T05:30:36Z",
+                "last_commit": "2026-09-03T11:06:16Z",
                 "open_issues": 294,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6786,
+                "stars": 6788,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1775,7 +1775,7 @@
                 "open_issues": 2,
                 "owner": "SecondThundeR",
                 "repo": "DokiDoki-RenPy",
-                "stars": 201,
+                "stars": 204,
                 "topics": [
                   "ddlc",
                   "decompiled-sources",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-09-01T19:48:10Z",
+                "last_commit": "2026-09-02T20:49:46Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2147,6 +2147,34 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "renpyfmt",
+                  "description": "A formatter for RenPy code. Work in progress, but looks promising.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An opinionated source code formatter for Ren'Py.",
+                    "homepage": null,
+                    "id": 565588680,
+                    "language": "Rust",
+                    "license": "MIT",
+                    "last_commit": "2026-06-08T11:47:53Z",
+                    "open_issues": 0,
+                    "owner": "kobaltcore",
+                    "repo": "renpyfmt",
+                    "stars": 7,
+                    "topics": [
+                      "cli-app",
+                      "formatter",
+                      "renpy",
+                      "renpy-language",
+                      "tools",
+                      "utility"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "vnproofer",
                   "description": "Project proofreading and spellchecking tool that works by passing scripts through cspell.",
                   "children": [],
@@ -2199,34 +2227,6 @@
                       "vscode",
                       "vscode-extensionpack",
                       "vscode-tasks"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:10:15.904Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "renpyfmt",
-                  "description": "A formatter for RenPy code. Work in progress, but looks promising.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An opinionated source code formatter for Ren'Py.",
-                    "homepage": null,
-                    "id": 565588680,
-                    "language": "Rust",
-                    "license": "MIT",
-                    "last_commit": "2026-06-08T11:47:53Z",
-                    "open_issues": 0,
-                    "owner": "kobaltcore",
-                    "repo": "renpyfmt",
-                    "stars": 6,
-                    "topics": [
-                      "cli-app",
-                      "formatter",
-                      "renpy",
-                      "renpy-language",
-                      "tools",
-                      "utility"
                     ]
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2475,7 +2475,7 @@
                     "open_issues": 11,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1238,
+                    "stars": 1241,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2544,7 +2544,7 @@
                     "open_issues": 2,
                     "owner": "UniverseDevel",
                     "repo": "RPA-Explorer",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": [
                       "csharp",
                       "explorer",
@@ -2855,7 +2855,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1711,
+                    "stars": 1712,
                     "topics": [
                       "audio",
                       "converter",
@@ -2910,10 +2910,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 317936,
+            "stars": 317922,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2941,7 +2941,7 @@
             "open_issues": 0,
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1367,
+            "stars": 1368,
             "topics": [
               "computer-graphics",
               "creative-coding",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:44:04.903Z",
+    "last_updated": "2026-09-03T12:47:00.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
