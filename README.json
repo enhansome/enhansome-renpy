@@ -683,7 +683,7 @@
                 "open_issues": 2,
                 "owner": "DRincs-Productions",
                 "repo": "DS-toolkit",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "adults-only",
                   "character-info",
@@ -1040,8 +1040,35 @@
                     "open_issues": 1,
                     "owner": "Gouvernathor",
                     "repo": "renpy-ChromaGlitch",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": [
+                      "renpy"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:10:15.904Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "RenPyGlitch",
+                  "description": "A different implementation of a glitch effect. Documentation in Russian.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Glitch effect for RenPy-game.",
+                    "homepage": null,
+                    "id": 100646559,
+                    "language": "Ren'Py",
+                    "license": "GPL-3.0",
+                    "last_commit": "2023-03-29T10:17:20Z",
+                    "open_issues": 0,
+                    "owner": "NyashniyVladya",
+                    "repo": "RenPyGlitchs",
+                    "stars": 23,
+                    "topics": [
+                      "glitch",
+                      "glitch-effect",
+                      "python",
+                      "ren-py",
                       "renpy"
                     ]
                   },
@@ -1065,33 +1092,6 @@
                     "repo": "renpy-SWHolo",
                     "stars": 23,
                     "topics": [
-                      "renpy"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:10:15.904Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "RenPyGlitch",
-                  "description": "A different implementation of a glitch effect. Documentation in Russian.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Glitch effect for RenPy-game.",
-                    "homepage": null,
-                    "id": 100646559,
-                    "language": "Ren'Py",
-                    "license": "GPL-3.0",
-                    "last_commit": "2023-03-29T10:17:20Z",
-                    "open_issues": 0,
-                    "owner": "NyashniyVladya",
-                    "repo": "RenPyGlitchs",
-                    "stars": 22,
-                    "topics": [
-                      "glitch",
-                      "glitch-effect",
-                      "python",
-                      "ren-py",
                       "renpy"
                     ]
                   },
@@ -1426,7 +1426,7 @@
                 "open_issues": 2,
                 "owner": "RuolinZheng08",
                 "repo": "renpy-rhythm",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "game",
                   "music",
@@ -1582,11 +1582,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-09-03T11:06:16Z",
-                "open_issues": 294,
+                "last_commit": "2026-09-04T09:42:00Z",
+                "open_issues": 295,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6788,
+                "stars": 6794,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-09-02T20:49:46Z",
+                "last_commit": "2026-09-04T02:31:10Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2437,7 +2437,7 @@
                     "id": 614653662,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-02T04:03:47Z",
+                    "last_commit": "2026-09-03T16:23:25Z",
                     "open_issues": 12,
                     "owner": "dcbaker",
                     "repo": "flatpaker",
@@ -2475,7 +2475,7 @@
                     "open_issues": 11,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1241,
+                    "stars": 1242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2855,7 +2855,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1712,
+                    "stars": 1711,
                     "topics": [
                       "audio",
                       "converter",
@@ -2910,10 +2910,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 18,
+            "open_issues": 16,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 317922,
+            "stars": 318159,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2941,7 +2941,7 @@
             "open_issues": 0,
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1368,
+            "stars": 1369,
             "topics": [
               "computer-graphics",
               "creative-coding",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:47:00.049Z",
+    "last_updated": "2026-09-04T12:40:41.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
@@ -2974,7 +2974,7 @@
       "open_issues": 1,
       "owner": "methanoliver",
       "repo": "awesome-renpy",
-      "stars": 380,
+      "stars": 381,
       "topics": [
         "awesome",
         "awesome-list",
