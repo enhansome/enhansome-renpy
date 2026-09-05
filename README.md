@@ -210,9 +210,9 @@ Pieces of code big enough to be called libraries.
 
 ### Gameplay elements
 
-* [RPG Battle Engine](https://github.com/Habitacle/battle-engine) ⭐ 111 | 🐛 0 | 🌐 Ren'Py | 📅 2021-05-27 - What it says on the tin.
+* [RPG Battle Engine](https://github.com/Habitacle/battle-engine) ⭐ 112 | 🐛 0 | 🌐 Ren'Py | 📅 2021-05-27 - What it says on the tin.
+* [Dating sim toolkit](https://github.com/DRincs-Productions/DS-toolkit) ⭐ 63 | 🐛 2 | 🌐 Ren'Py | 📅 2024-04-15 - A different take on same.
 * [Dating Sim Engine](https://github.com/renpy/dse) ⭐ 62 | 🐛 0 | 🌐 Ren'Py | 📅 2019-11-06 - The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.
-* [Dating sim toolkit](https://github.com/DRincs-Productions/DS-toolkit) ⭐ 62 | 🐛 2 | 🌐 Ren'Py | 📅 2024-04-15 - A different take on same.
 * [Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR-toolkit) ⭐ 51 | 🐛 15 | 🌐 Ren'Py | 📅 2024-07-29 - A complete system introducing the concepts of location, time and event, producing the framework of a not-quite-point-and-click adventure game.
 * [Cardgame Framework](https://github.com/renpy/cardgame) ⭐ 34 | 🐛 1 | 📅 2015-05-30 - What it says on the tin. Ancient code, but still works well in current RenPy. Not very suitable for modification, due to relying exclusively on deprecated features.
 * [Lezinventory](https://www.lezcave.com/lezinventory-framework/) - General purpose inventory system.
@@ -335,7 +335,7 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 
 Shaders are the most arcane part of RenPy, because they require branching into [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language), while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.
 
-* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,794 | 🐛 295 | 🌐 Ren'Py | 📅 2026-09-04 - An alternative implementation of blur that overrides the stock blur.
+* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,796 | 🐛 295 | 🌐 Ren'Py | 📅 2026-09-05 - An alternative implementation of blur that overrides the stock blur.
 * [renpy-blend-modes](https://github.com/CrossCouloir/renpy-blend-modes) ⭐ 24 | 🐛 1 | 🌐 Ren'Py | 📅 2025-12-14 - Shader-based Photoshop-style blend modes for images. Only soft light is implemented.
 * [Wave shader](https://github.com/SoDaRa/RenpyWaveShader) ⭐ 17 | 🐛 1 | 🌐 Ren'Py | 📅 2022-05-23 - A better documented wave shader.
 * [Outline shader](https://github.com/RenpyRemix/outline-shader) ⭐ 15 | 🐛 2 | 🌐 Ren'Py | 📅 2021-04-11 - Adds outlines to arbitrary objects.
@@ -413,7 +413,7 @@ These are software unto themselves.
 #### Unpacking and decompilation
 
 * [unrpyc](https://github.com/CensoredUsername/unrpyc) ⭐ 1,242 | 🐛 11 | 🌐 Ren'Py | 📅 2026-02-24 - The `*.rpyc` file decompiler.
-* [unrpa](https://github.com/Lattyware/unrpa) ⭐ 759 | 🐛 20 | 🌐 Python | 📅 2022-06-27 - The most famous RPA archive extractor.
+* [unrpa](https://github.com/Lattyware/unrpa) ⭐ 760 | 🐛 20 | 🌐 Python | 📅 2022-06-27 - The most famous RPA archive extractor.
 * [rpatool](https://github.com/Shizmob/rpatool) ⚠️ Archived - The less famous RPA archive extractor.
 * [RPA Explorer](https://github.com/UniverseDevel/RPA-Explorer) ⭐ 104 | 🐛 2 | 🌐 JavaScript | 📅 2025-05-10 - Graphical explorer for RenPy Archives built around a C# library to manipulate them. Can also invoke `unrpyc` on the contents.
 * [RenPy-UnAPK](https://github.com/DrDRR/RenPy-UnAPK) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-02-20 - A tool to unpack and decompile an Android build's APK file. Sparsely documented, but there's not much to document.
@@ -523,7 +523,7 @@ Most of these are only useful to produce background images, as getting the detai
 #### Graphics
 
 * [Krita](https://krita.org/) - The best open source paint program.
-  * [Generate Ren'Py Scripting](https://github.com/SeanHRN/generate-renpy-scripting) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-05-05 - A plugin for Krita, outputs a block of Ren'Py script to display the images of the active Krita document as they appear on the canvas, working in tandem with the [krita-batch-exporter](https://github.com/GDQuest/krita-batch-exporter) ⭐ 380 | 🐛 11 | 🌐 Python | 📅 2022-03-07.
+  * [Generate Ren'Py Scripting](https://github.com/SeanHRN/generate-renpy-scripting) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-05-05 - A plugin for Krita, outputs a block of Ren'Py script to display the images of the active Krita document as they appear on the canvas, working in tandem with the [krita-batch-exporter](https://github.com/GDQuest/krita-batch-exporter) ⭐ 381 | 🐛 11 | 🌐 Python | 📅 2022-03-07.
 * [GIMP](https://www.gimp.org/) - The more arcane and ancient, but likewise powerful open source paint program.
 * [Synfig Studio](https://www.synfig.org/) - Free animation software.
 * [Inkscape](https://inkscape.org/) - best open source vector image editor.
@@ -544,7 +544,7 @@ Most of these are only useful to produce background images, as getting the detai
 
 #### Video
 
-* [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video *and audio* format conversion and filtering. If you need a GUI for it, there's [QWinFF](https://qwinff.github.io/), [Axiom](https://github.com/MattMcManis/Axiom) ⭐ 1,711 | 🐛 72 | 🌐 C# | 📅 2021-11-09, [Videomass](https://github.com/jeanslack/Videomass) ⭐ 1,666 | 🐛 22 | 🌐 Python | 📅 2026-05-03, to name but a few.
+* [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video *and audio* format conversion and filtering. If you need a GUI for it, there's [QWinFF](https://qwinff.github.io/), [Axiom](https://github.com/MattMcManis/Axiom) ⭐ 1,712 | 🐛 72 | 🌐 C# | 📅 2021-11-09, [Videomass](https://github.com/jeanslack/Videomass) ⭐ 1,666 | 🐛 22 | 🌐 Python | 📅 2026-05-03, to name but a few.
 
 ## Curios
 
@@ -563,15 +563,15 @@ You can find a community of RenPy users in your language, provided it's one of:
 
 ## Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,883 | 🐛 106 | 📅 2026-09-02, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,208 | 🐛 26 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,651 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02.
+Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,154 | 🐛 106 | 📅 2026-09-02, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,207 | 🐛 26 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,653 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02.
 
 Those should be of particular interest for RenPy users:
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 318,159 | 🐛 16 | 🌐 Python | 📅 2026-09-01
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 318,365 | 🐛 17 | 🌐 Python | 📅 2026-09-01
 * [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,369 | 🐛 0 | 📅 2023-08-21
 * [magictools](https://github.com/ellisonleao/magictool)
 * [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

@@ -641,8 +641,46 @@
                 "open_issues": 0,
                 "owner": "Habitacle",
                 "repo": "battle-engine",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Dating sim toolkit",
+              "description": "A different take on same.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dating sim toolkit for Ren'py",
+                "homepage": "https://drincs-productions.itch.io/ds-toolkit",
+                "id": 275885263,
+                "language": "Ren'Py",
+                "license": "MIT",
+                "last_commit": "2024-04-15T08:40:24Z",
+                "open_issues": 2,
+                "owner": "DRincs-Productions",
+                "repo": "DS-toolkit",
+                "stars": 63,
+                "topics": [
+                  "adults-only",
+                  "character-info",
+                  "characters-statistics",
+                  "clothes-management",
+                  "dating",
+                  "dating-sim",
+                  "dating-simulator",
+                  "f95zone",
+                  "game",
+                  "game-development",
+                  "notifications-systems",
+                  "renpy",
+                  "sim",
+                  "tool",
+                  "toolkit",
+                  "visual-novel"
+                ]
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
             },
@@ -664,44 +702,6 @@
                 "repo": "dse",
                 "stars": 62,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T20:10:15.904Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Dating sim toolkit",
-              "description": "A different take on same.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Dating sim toolkit for Ren'py",
-                "homepage": "https://drincs-productions.itch.io/ds-toolkit",
-                "id": 275885263,
-                "language": "Ren'Py",
-                "license": "MIT",
-                "last_commit": "2024-04-15T08:40:24Z",
-                "open_issues": 2,
-                "owner": "DRincs-Productions",
-                "repo": "DS-toolkit",
-                "stars": 62,
-                "topics": [
-                  "adults-only",
-                  "character-info",
-                  "characters-statistics",
-                  "clothes-management",
-                  "dating",
-                  "dating-sim",
-                  "dating-simulator",
-                  "f95zone",
-                  "game",
-                  "game-development",
-                  "notifications-systems",
-                  "renpy",
-                  "sim",
-                  "tool",
-                  "toolkit",
-                  "visual-novel"
-                ]
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
             },
@@ -1582,11 +1582,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-09-04T09:42:00Z",
+                "last_commit": "2026-09-05T11:47:36Z",
                 "open_issues": 295,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6794,
+                "stars": 6796,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-09-04T02:31:10Z",
+                "last_commit": "2026-09-04T16:31:19Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2496,7 +2496,7 @@
                     "open_issues": 20,
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 759,
+                    "stars": 760,
                     "topics": [
                       "extraction",
                       "python",
@@ -2855,7 +2855,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1711,
+                    "stars": 1712,
                     "topics": [
                       "audio",
                       "converter",
@@ -2910,10 +2910,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 318159,
+            "stars": 318365,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:40:41.665Z",
+    "last_updated": "2026-09-05T11:48:16.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
