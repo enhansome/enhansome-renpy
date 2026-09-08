@@ -1582,11 +1582,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-09-07T03:04:42Z",
-                "open_issues": 289,
+                "last_commit": "2026-09-08T03:48:12Z",
+                "open_issues": 292,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6799,
+                "stars": 6802,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1746,7 +1746,7 @@
                 "open_issues": 19,
                 "owner": "freeCodeCamp",
                 "repo": "LearnToCodeRPG",
-                "stars": 1136,
+                "stars": 1135,
                 "topics": [
                   "game",
                   "learn-to-code",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-09-06T13:30:39Z",
+                "last_commit": "2026-09-07T19:33:46Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2475,7 +2475,7 @@
                     "open_issues": 11,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1245,
+                    "stars": 1247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2910,10 +2910,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 319009,
+            "stars": 319237,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T14:12:15.502Z",
+    "last_updated": "2026-09-08T12:49:44.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
