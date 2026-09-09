@@ -951,7 +951,7 @@
                 "open_issues": 0,
                 "owner": "cheonbyeol",
                 "repo": "RenPy-GalleryPlus",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
@@ -1586,7 +1586,7 @@
                 "open_issues": 292,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6802,
+                "stars": 6804,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1775,7 +1775,7 @@
                 "open_issues": 2,
                 "owner": "SecondThundeR",
                 "repo": "DokiDoki-RenPy",
-                "stars": 204,
+                "stars": 205,
                 "topics": [
                   "ddlc",
                   "decompiled-sources",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-09-07T19:33:46Z",
+                "last_commit": "2026-09-08T17:20:24Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2368,7 +2368,7 @@
                     "open_issues": 3,
                     "owner": "ProjectAliceDev",
                     "repo": "renpy-build-action",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2475,7 +2475,7 @@
                     "open_issues": 11,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1247,
+                    "stars": 1248,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2496,7 +2496,7 @@
                     "open_issues": 20,
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": [
                       "extraction",
                       "python",
@@ -2544,7 +2544,7 @@
                     "open_issues": 2,
                     "owner": "UniverseDevel",
                     "repo": "RPA-Explorer",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": [
                       "csharp",
                       "explorer",
@@ -2910,10 +2910,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 19,
+            "open_issues": 17,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 319237,
+            "stars": 319463,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:49:44.873Z",
+    "last_updated": "2026-09-09T12:55:14.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
