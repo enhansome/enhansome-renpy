@@ -434,7 +434,7 @@
                 "open_issues": 5,
                 "owner": "SoDaRa",
                 "repo": "Kinetic-Text-Tags",
-                "stars": 110,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
@@ -1582,11 +1582,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-09-11T12:40:48Z",
+                "last_commit": "2026-09-12T00:32:42Z",
                 "open_issues": 294,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6811,
+                "stars": 6812,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-09-11T00:30:06Z",
+                "last_commit": "2026-09-11T19:10:24Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2076,7 +2076,7 @@
                     "open_issues": 13,
                     "owner": "EwenQuim",
                     "repo": "renpy-graphviz",
-                    "stars": 180,
+                    "stars": 181,
                     "topics": [
                       "branches",
                       "branching",
@@ -2437,7 +2437,7 @@
                     "id": 614653662,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T04:08:33Z",
+                    "last_commit": "2026-09-11T17:55:58Z",
                     "open_issues": 12,
                     "owner": "dcbaker",
                     "repo": "flatpaker",
@@ -2475,7 +2475,7 @@
                     "open_issues": 11,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1248,
+                    "stars": 1252,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2496,7 +2496,7 @@
                     "open_issues": 20,
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 761,
+                    "stars": 763,
                     "topics": [
                       "extraction",
                       "python",
@@ -2910,10 +2910,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 319920,
+            "stars": 320162,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2941,7 +2941,7 @@
             "open_issues": 0,
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1370,
+            "stars": 1371,
             "topics": [
               "computer-graphics",
               "creative-coding",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:47:09.279Z",
+    "last_updated": "2026-09-12T12:07:26.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
@@ -2974,7 +2974,7 @@
       "open_issues": 1,
       "owner": "methanoliver",
       "repo": "awesome-renpy",
-      "stars": 381,
+      "stars": 380,
       "topics": [
         "awesome",
         "awesome-list",
