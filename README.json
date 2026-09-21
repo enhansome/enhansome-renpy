@@ -641,7 +641,7 @@
                 "open_issues": 0,
                 "owner": "Habitacle",
                 "repo": "battle-engine",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
@@ -1582,11 +1582,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-09-20T03:57:05Z",
-                "open_issues": 295,
+                "last_commit": "2026-09-21T03:46:10Z",
+                "open_issues": 294,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6843,
+                "stars": 6846,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1746,7 +1746,7 @@
                 "open_issues": 19,
                 "owner": "freeCodeCamp",
                 "repo": "LearnToCodeRPG",
-                "stars": 1133,
+                "stars": 1134,
                 "topics": [
                   "game",
                   "learn-to-code",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-09-20T03:23:36Z",
+                "last_commit": "2026-09-20T23:09:37Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2909,11 +2909,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T12:25:30Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-20T15:48:45Z",
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 321843,
+            "stars": 322077,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2941,7 +2941,7 @@
             "open_issues": 0,
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1374,
+            "stars": 1375,
             "topics": [
               "computer-graphics",
               "creative-coding",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:00:53.501Z",
+    "last_updated": "2026-09-21T15:03:18.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
