@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5089,
+                "stars": 5090,
                 "topics": [
                   "free-ebooks",
                   "learning-python",
@@ -1582,11 +1582,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-09-29T08:35:37Z",
+                "last_commit": "2026-09-30T14:11:25Z",
                 "open_issues": 303,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6869,
+                "stars": 6876,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-09-29T02:47:22Z",
+                "last_commit": "2026-09-30T00:58:35Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2475,7 +2475,7 @@
                     "open_issues": 11,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1260,
+                    "stars": 1261,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2523,7 +2523,7 @@
                     "open_issues": 8,
                     "owner": "shizmob",
                     "repo": "rpatool",
-                    "stars": 631,
+                    "stars": 632,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2909,11 +2909,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T09:15:13Z",
+            "last_commit": "2026-09-29T15:23:43Z",
             "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 323991,
+            "stars": 324241,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:48:42.687Z",
+    "last_updated": "2026-09-30T14:52:10.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
