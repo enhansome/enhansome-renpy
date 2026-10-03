@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5090,
+                "stars": 5088,
                 "topics": [
                   "free-ebooks",
                   "learning-python",
@@ -1469,7 +1469,7 @@
             {
               "node_type": "item",
               "title": "Space Invaders",
-              "description": null,
+              "description": "pass-by-reference/renpy-space-invaders",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1582,11 +1582,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-10-02T01:43:07Z",
-                "open_issues": 305,
+                "last_commit": "2026-10-03T01:38:29Z",
+                "open_issues": 303,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6877,
+                "stars": 6878,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-10-02T01:18:01Z",
+                "last_commit": "2026-10-03T02:22:19Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2900,7 +2900,7 @@
         {
           "node_type": "item",
           "title": "awesome-python",
-          "description": null,
+          "description": "vinta/awesome-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2910,10 +2910,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T12:01:28Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324648,
+            "stars": 324781,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2928,7 +2928,7 @@
         {
           "node_type": "item",
           "title": "awesome-glsl",
-          "description": null,
+          "description": "vanrez-nez/awesome-glsl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:41:25.574Z",
+    "last_updated": "2026-10-03T05:04:03.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
