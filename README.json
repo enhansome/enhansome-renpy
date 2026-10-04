@@ -1582,8 +1582,8 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-10-03T08:15:39Z",
-                "open_issues": 305,
+                "last_commit": "2026-10-04T04:33:24Z",
+                "open_issues": 301,
                 "owner": "renpy",
                 "repo": "renpy",
                 "stars": 6877,
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-10-03T02:22:19Z",
+                "last_commit": "2026-10-04T02:14:36Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2475,7 +2475,7 @@
                     "open_issues": 11,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1261,
+                    "stars": 1262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2855,7 +2855,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1713,
+                    "stars": 1714,
                     "topics": [
                       "audio",
                       "converter",
@@ -2910,10 +2910,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T12:01:28Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324853,
+            "stars": 325081,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:17:41.687Z",
+    "last_updated": "2026-10-04T13:53:38.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
