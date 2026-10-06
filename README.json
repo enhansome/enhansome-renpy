@@ -1583,10 +1583,10 @@
                 "language": "Ren'Py",
                 "license": null,
                 "last_commit": "2026-10-06T05:32:24Z",
-                "open_issues": 299,
+                "open_issues": 301,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6882,
+                "stars": 6883,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-10-05T20:24:20Z",
+                "last_commit": "2026-10-06T14:59:50Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2855,7 +2855,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1711,
+                    "stars": 1712,
                     "topics": [
                       "audio",
                       "converter",
@@ -2913,7 +2913,7 @@
             "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 325512,
+            "stars": 325568,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:32:09.374Z",
+    "last_updated": "2026-10-06T15:01:28.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",

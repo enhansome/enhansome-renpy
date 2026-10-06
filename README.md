@@ -335,7 +335,7 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 
 Shaders are the most arcane part of RenPy, because they require branching into [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language), while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.
 
-* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,882 | 🐛 299 | 🌐 Ren'Py | 📅 2026-10-06 - An alternative implementation of blur that overrides the stock blur.
+* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,883 | 🐛 301 | 🌐 Ren'Py | 📅 2026-10-06 - An alternative implementation of blur that overrides the stock blur.
 * [renpy-blend-modes](https://github.com/CrossCouloir/renpy-blend-modes) ⭐ 25 | 🐛 1 | 🌐 Ren'Py | 📅 2025-12-14 - Shader-based Photoshop-style blend modes for images. Only soft light is implemented.
 * [Wave shader](https://github.com/SoDaRa/RenpyWaveShader) ⭐ 17 | 🐛 1 | 🌐 Ren'Py | 📅 2022-05-23 - A better documented wave shader.
 * [Outline shader](https://github.com/RenpyRemix/outline-shader) ⭐ 15 | 🐛 2 | 🌐 Ren'Py | 📅 2021-04-11 - Adds outlines to arbitrary objects.
@@ -354,7 +354,7 @@ Occasionally, entire games are published as open source, though not necessarily 
 * [Learn to Code RPG](https://github.com/freeCodeCamp/LearnToCodeRPG) ⚠️ Archived - a complete RenPy title, showcasing some of the more obscure features, with full source and assets.
 * [Decompiled Doki Doki Literature Club](https://github.com/SecondThundeR/DokiDoki-RenPy) ⭐ 206 | 🐛 2 | 🌐 Ren'Py | 📅 2023-04-18 - while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming from 6.99 era, and is of historical and educational interest.
 * [MonikA.I](https://github.com/Rubiksman78/MonikA.I) ⭐ 166 | 🐛 8 | 🌐 Python | 📅 2025-09-10 - AI-based features for a mod for Doki Doki Literature Club, this is an advanced example of integrating RenPy with a chatbot.
-* [Mysterious Messenger](https://github.com/shawna-p/mysterious-messenger) ⭐ 41 | 🐛 0 | 🌐 Ren'Py | 📅 2026-10-05 - An entire game built around a custom messenger imitation.
+* [Mysterious Messenger](https://github.com/shawna-p/mysterious-messenger) ⭐ 41 | 🐛 0 | 🌐 Ren'Py | 📅 2026-10-06 - An entire game built around a custom messenger imitation.
 * [KatawaShoujo-RenPy8](https://github.com/gcammisa/KatawaShoujo-RenPy8) ⭐ 38 | 🐛 1 | 🌐 Ren'Py | 📅 2024-06-22 - A port of the classic Katawa Shoujo visual novel to run on modern versions of RenPy.
 * [carpe-diem](https://github.com/moonlitworks/carpe-diem) ⭐ 2 | 🐛 0 | 🌐 Ren'Py | 📅 2022-11-11 - Complete source for [Carpe Diem](https://store.steampowered.com/app/423880/Carpe_Diem/)
 * [Without Romance](https://github.com/moonlitworks/without-romance) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2023-10-10 - A SuNoFES 2020 project.
@@ -545,7 +545,7 @@ Most of these are only useful to produce background images, as getting the detai
 
 #### Video
 
-* [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video *and audio* format conversion and filtering. If you need a GUI for it, there's [QWinFF](https://qwinff.github.io/), [Axiom](https://github.com/MattMcManis/Axiom) ⭐ 1,711 | 🐛 72 | 🌐 C# | 📅 2021-11-09, [Videomass](https://github.com/jeanslack/Videomass) ⭐ 1,672 | 🐛 22 | 🌐 Python | 📅 2026-10-06, to name but a few.
+* [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video *and audio* format conversion and filtering. If you need a GUI for it, there's [QWinFF](https://qwinff.github.io/), [Axiom](https://github.com/MattMcManis/Axiom) ⭐ 1,712 | 🐛 72 | 🌐 C# | 📅 2021-11-09, [Videomass](https://github.com/jeanslack/Videomass) ⭐ 1,673 | 🐛 22 | 🌐 Python | 📅 2026-10-06, to name but a few.
 
 ## Curios
 
@@ -564,11 +564,11 @@ You can find a community of RenPy users in your language, provided it's one of:
 
 ## Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,360 | 🐛 106 | 📅 2026-09-02, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,221 | 🐛 29 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,705 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
+Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,481 | 🐛 106 | 📅 2026-09-02, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,221 | 🐛 29 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,705 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
 
 Those should be of particular interest for RenPy users:
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,512 | 🐛 19 | 🌐 Python | 📅 2026-10-02
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,568 | 🐛 19 | 🌐 Python | 📅 2026-10-02
 * [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,375 | 🐛 0 | 📅 2023-08-21
 * [magictools](https://github.com/ellisonleao/magictool)
 * [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
