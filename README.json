@@ -1582,11 +1582,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-10-05T09:19:13Z",
+                "last_commit": "2026-10-06T05:32:24Z",
                 "open_issues": 299,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6880,
+                "stars": 6882,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-10-04T20:17:38Z",
+                "last_commit": "2026-10-05T20:24:20Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2496,7 +2496,7 @@
                     "open_issues": 20,
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 766,
+                    "stars": 765,
                     "topics": [
                       "extraction",
                       "python",
@@ -2855,7 +2855,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1714,
+                    "stars": 1711,
                     "topics": [
                       "audio",
                       "converter",
@@ -2913,7 +2913,7 @@
             "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 325347,
+            "stars": 325512,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T17:04:47.352Z",
+    "last_updated": "2026-10-06T10:32:09.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
