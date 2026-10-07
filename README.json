@@ -1582,11 +1582,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-10-06T05:32:24Z",
-                "open_issues": 301,
+                "last_commit": "2026-10-07T03:23:35Z",
+                "open_issues": 300,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6883,
+                "stars": 6885,
                 "topics": [
                   "game-engine",
                   "python",
@@ -2076,7 +2076,7 @@
                     "open_issues": 13,
                     "owner": "EwenQuim",
                     "repo": "renpy-graphviz",
-                    "stars": 181,
+                    "stars": 182,
                     "topics": [
                       "branches",
                       "branching",
@@ -2909,11 +2909,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T12:01:28Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-07T11:02:54Z",
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 325568,
+            "stars": 325817,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:01:28.566Z",
+    "last_updated": "2026-10-07T15:29:18.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
