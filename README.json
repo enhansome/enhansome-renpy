@@ -1426,7 +1426,7 @@
                 "open_issues": 2,
                 "owner": "RuolinZheng08",
                 "repo": "renpy-rhythm",
-                "stars": 147,
+                "stars": 148,
                 "topics": [
                   "game",
                   "music",
@@ -1586,7 +1586,7 @@
                 "open_issues": 300,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6885,
+                "stars": 6891,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1775,7 +1775,7 @@
                 "open_issues": 2,
                 "owner": "SecondThundeR",
                 "repo": "DokiDoki-RenPy",
-                "stars": 206,
+                "stars": 204,
                 "topics": [
                   "ddlc",
                   "decompiled-sources",
@@ -1802,7 +1802,7 @@
                 "open_issues": 8,
                 "owner": "Rubiksman78",
                 "repo": "MonikA.I",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "dialogpt",
                   "doki-doki-literature-club",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-10-06T14:59:50Z",
+                "last_commit": "2026-10-07T23:44:28Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2855,7 +2855,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1712,
+                    "stars": 1713,
                     "topics": [
                       "audio",
                       "converter",
@@ -2913,7 +2913,7 @@
             "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 325817,
+            "stars": 326045,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:29:18.853Z",
+    "last_updated": "2026-10-08T15:31:18.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
