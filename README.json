@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5087,
+                "stars": 5088,
                 "topics": [
                   "free-ebooks",
                   "learning-python",
@@ -1582,11 +1582,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-10-09T03:23:06Z",
-                "open_issues": 304,
+                "last_commit": "2026-10-10T03:39:45Z",
+                "open_issues": 305,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6898,
+                "stars": 6904,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1829,7 +1829,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-10-08T21:24:42Z",
+                "last_commit": "2026-10-09T21:34:54Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2909,11 +2909,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T11:02:54Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-10T11:10:01Z",
+            "open_issues": 23,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 326052,
+            "stars": 326294,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T15:13:21.682Z",
+    "last_updated": "2026-10-10T14:25:37.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
