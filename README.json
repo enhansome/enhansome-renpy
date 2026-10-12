@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5088,
+                "stars": 5089,
                 "topics": [
                   "free-ebooks",
                   "learning-python",
@@ -788,7 +788,7 @@
                 "open_issues": 7,
                 "owner": "Elckarow",
                 "repo": "Better-EMR-Phone",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
@@ -876,7 +876,7 @@
                 "open_issues": 0,
                 "owner": "albireogames",
                 "repo": "renpy_phone",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
@@ -1096,6 +1096,27 @@
                     ]
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Breakup",
+                  "description": "RenPy Implementation of Takashi Toyama's breakup.dll NScripter plugin which is closely based on the implementation in onscripter-ru",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Ren'Py implementation of Takashi Toyama's breakup.dll NScripter plugin which is heavily used in Umineko. Closely based on the implementation in onscripter-ru and renpy_breakup from Neurochitin",
+                    "homepage": null,
+                    "id": 1400882121,
+                    "language": "Ren'Py",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-12T17:18:21Z",
+                    "open_issues": 0,
+                    "owner": "Jaybe-Games",
+                    "repo": "Breakup-for-Renpy",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-12T17:45:22.125Z"
                 }
               ],
               "description": null,
@@ -1426,7 +1447,7 @@
                 "open_issues": 2,
                 "owner": "RuolinZheng08",
                 "repo": "renpy-rhythm",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "game",
                   "music",
@@ -1582,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-10-11T11:16:51Z",
-                "open_issues": 319,
+                "last_commit": "2026-10-12T16:38:01Z",
+                "open_issues": 307,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6904,
+                "stars": 6910,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1829,7 +1850,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-10-10T22:44:50Z",
+                "last_commit": "2026-10-12T13:13:44Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2909,11 +2930,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T03:35:50Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-12T10:22:02Z",
+            "open_issues": 17,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 326548,
+            "stars": 326854,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:52:14.656Z",
+    "last_updated": "2026-10-12T17:45:22.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
@@ -2970,8 +2991,8 @@
       "id": 536685066,
       "language": null,
       "license": "Unlicense",
-      "last_commit": "2026-09-28T10:42:53Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-12T12:01:04Z",
+      "open_issues": 0,
       "owner": "methanoliver",
       "repo": "awesome-renpy",
       "stars": 381,
@@ -2985,7 +3006,7 @@
         "renpy-visual-novels"
       ]
     },
-    "original_repository_sha": "5d7b595a61bccfb375a0b364e59b9ac477246e2c",
+    "original_repository_sha": "88f30b693a04b1316f535c1893f5195df8689917",
     "enhanced_repository": "enhansome/enhansome-renpy",
     "enhanced_repository_description": null,
     "title": "Awesome RenPy with stars"
