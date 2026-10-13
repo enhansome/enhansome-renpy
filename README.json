@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5089,
+                "stars": 5090,
                 "topics": [
                   "free-ebooks",
                   "learning-python",
@@ -205,7 +205,7 @@
                 "open_issues": 7,
                 "owner": "DRincs-Productions",
                 "repo": "Renpygame",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "game-development",
                   "minigame",
@@ -648,6 +648,27 @@
             },
             {
               "node_type": "item",
+              "title": "Dating Sim Engine",
+              "description": "The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dating Sim Engine",
+                "homepage": null,
+                "id": 40637253,
+                "language": "Ren'Py",
+                "license": "NOASSERTION",
+                "last_commit": "2019-11-06T18:28:41Z",
+                "open_issues": 0,
+                "owner": "renpy",
+                "repo": "dse",
+                "stars": 62,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
+            },
+            {
+              "node_type": "item",
               "title": "Dating sim toolkit",
               "description": "A different take on same.",
               "children": [],
@@ -662,7 +683,7 @@
                 "open_issues": 2,
                 "owner": "DRincs-Productions",
                 "repo": "DS-toolkit",
-                "stars": 63,
+                "stars": 62,
                 "topics": [
                   "adults-only",
                   "character-info",
@@ -681,27 +702,6 @@
                   "toolkit",
                   "visual-novel"
                 ]
-              },
-              "first_seen": "2026-08-28T20:10:15.904Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Dating Sim Engine",
-              "description": "The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Dating Sim Engine",
-                "homepage": null,
-                "id": 40637253,
-                "language": "Ren'Py",
-                "license": "NOASSERTION",
-                "last_commit": "2019-11-06T18:28:41Z",
-                "open_issues": 0,
-                "owner": "renpy",
-                "repo": "dse",
-                "stars": 62,
-                "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
             },
@@ -930,7 +930,7 @@
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "renpy-achievement",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
@@ -1603,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-10-12T16:38:01Z",
-                "open_issues": 307,
+                "last_commit": "2026-10-13T15:17:44Z",
+                "open_issues": 308,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6910,
+                "stars": 6915,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1767,7 +1767,7 @@
                 "open_issues": 19,
                 "owner": "freeCodeCamp",
                 "repo": "LearnToCodeRPG",
-                "stars": 1137,
+                "stars": 1136,
                 "topics": [
                   "game",
                   "learn-to-code",
@@ -1823,7 +1823,7 @@
                 "open_issues": 8,
                 "owner": "Rubiksman78",
                 "repo": "MonikA.I",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "dialogpt",
                   "doki-doki-literature-club",
@@ -2934,7 +2934,7 @@
             "open_issues": 17,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 326854,
+            "stars": 327092,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T17:45:22.125Z",
+    "last_updated": "2026-10-13T15:52:16.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
