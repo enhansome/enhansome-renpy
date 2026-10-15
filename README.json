@@ -150,7 +150,7 @@
             "open_issues": 0,
             "owner": "shawna-p",
             "repo": "EasyRenPyGui",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "ren-py",
               "renpy",
@@ -553,6 +553,27 @@
             },
             {
               "node_type": "item",
+              "title": "renpy-rainbowtext",
+              "description": "A rainbow text effect.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RainbowText CDD for Ren'Py.",
+                "homepage": null,
+                "id": 566243843,
+                "language": "Ren'Py",
+                "license": "MIT",
+                "last_commit": "2022-11-17T10:23:54Z",
+                "open_issues": 0,
+                "owner": "Lezalith",
+                "repo": "renpy-rainbowtext",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
+            },
+            {
+              "node_type": "item",
               "title": "renpy-word-description",
               "description": "- Text tooltips on hover over words.",
               "children": [],
@@ -573,27 +594,6 @@
                   "renpy",
                   "tooltip"
                 ]
-              },
-              "first_seen": "2026-08-28T20:10:15.904Z"
-            },
-            {
-              "node_type": "item",
-              "title": "renpy-rainbowtext",
-              "description": "A rainbow text effect.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "RainbowText CDD for Ren'Py.",
-                "homepage": null,
-                "id": 566243843,
-                "language": "Ren'Py",
-                "license": "MIT",
-                "last_commit": "2022-11-17T10:23:54Z",
-                "open_issues": 0,
-                "owner": "Lezalith",
-                "repo": "renpy-rainbowtext",
-                "stars": 3,
-                "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
             },
@@ -830,7 +830,7 @@
                 "open_issues": 0,
                 "owner": "UnscriptedVN",
                 "repo": "candella",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "aliceos",
                   "framework",
@@ -1603,7 +1603,7 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-10-14T07:20:18Z",
+                "last_commit": "2026-10-15T05:51:58Z",
                 "open_issues": 308,
                 "owner": "renpy",
                 "repo": "renpy",
@@ -1767,7 +1767,7 @@
                 "open_issues": 19,
                 "owner": "freeCodeCamp",
                 "repo": "LearnToCodeRPG",
-                "stars": 1137,
+                "stars": 1136,
                 "topics": [
                   "game",
                   "learn-to-code",
@@ -1850,7 +1850,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-10-13T20:42:07Z",
+                "last_commit": "2026-10-14T22:10:24Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2097,7 +2097,7 @@
                     "open_issues": 13,
                     "owner": "EwenQuim",
                     "repo": "renpy-graphviz",
-                    "stars": 182,
+                    "stars": 183,
                     "topics": [
                       "branches",
                       "branching",
@@ -2389,7 +2389,7 @@
                     "open_issues": 3,
                     "owner": "ProjectAliceDev",
                     "repo": "renpy-build-action",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2496,7 +2496,7 @@
                     "open_issues": 11,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1265,
+                    "stars": 1267,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2514,10 +2514,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2022-06-27T12:05:29Z",
-                    "open_issues": 20,
+                    "open_issues": 21,
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 766,
+                    "stars": 767,
                     "topics": [
                       "extraction",
                       "python",
@@ -2930,11 +2930,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T10:22:02Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-15T04:45:50Z",
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 327334,
+            "stars": 327573,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:36:41.804Z",
+    "last_updated": "2026-10-15T13:19:35.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
