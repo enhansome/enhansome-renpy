@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5090,
+                "stars": 5092,
                 "topics": [
                   "free-ebooks",
                   "learning-python",
@@ -1603,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-10-15T05:51:58Z",
-                "open_issues": 308,
+                "last_commit": "2026-10-16T03:17:46Z",
+                "open_issues": 305,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6915,
+                "stars": 6918,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1850,7 +1850,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-10-14T22:10:24Z",
+                "last_commit": "2026-10-15T22:39:58Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2097,7 +2097,7 @@
                     "open_issues": 13,
                     "owner": "EwenQuim",
                     "repo": "renpy-graphviz",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": [
                       "branches",
                       "branching",
@@ -2178,7 +2178,7 @@
                     "id": 565588680,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-06-08T11:47:53Z",
+                    "last_commit": "2026-10-15T19:27:03Z",
                     "open_issues": 0,
                     "owner": "kobaltcore",
                     "repo": "renpyfmt",
@@ -2406,7 +2406,7 @@
                     "id": 394373150,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2025-12-29T17:26:46Z",
+                    "last_commit": "2026-10-15T19:39:52Z",
                     "open_issues": 1,
                     "owner": "kobaltcore",
                     "repo": "renkit",
@@ -2496,7 +2496,7 @@
                     "open_issues": 11,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1267,
+                    "stars": 1268,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2565,7 +2565,7 @@
                     "open_issues": 2,
                     "owner": "UniverseDevel",
                     "repo": "RPA-Explorer",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": [
                       "csharp",
                       "explorer",
@@ -2930,11 +2930,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T04:45:50Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-16T11:50:03Z",
+            "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 327573,
+            "stars": 327853,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T13:19:35.567Z",
+    "last_updated": "2026-10-16T13:11:05.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
