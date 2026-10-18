@@ -1603,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-10-17T05:46:47Z",
-                "open_issues": 302,
+                "last_commit": "2026-10-18T04:39:38Z",
+                "open_issues": 301,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6921,
+                "stars": 6922,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1850,7 +1850,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-10-16T23:26:38Z",
+                "last_commit": "2026-10-18T00:39:13Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2508,7 +2508,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "A program to extract files from the RPA archive format.",
+                    "description": "Extract files from the RPA archive format.",
                     "homepage": "http://www.lattyware.co.uk/projects/unrpa/",
                     "id": 3046568,
                     "language": "Python",
@@ -2931,10 +2931,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-17T08:58:57Z",
-            "open_issues": 21,
+            "open_issues": 24,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 328096,
+            "stars": 328336,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:07:37.689Z",
+    "last_updated": "2026-10-18T12:34:17.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
