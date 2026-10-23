@@ -200,7 +200,7 @@ Pieces of code big enough to be called libraries.
 * [Encyclopaedia Framework](https://github.com/jsfehler/renpy-encyclopaedia) ⭐ 78 | 🐛 6 | 🌐 Python | 📅 2025-01-19 - Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.
 * [Speech Bubbles](https://github.com/RenpyRemix/speech-bubbles) ⭐ 50 | 🐛 2 | 🌐 Ren'Py | 📅 2020-07-01 - A unique look presenting novel text as speech bubbles.
 * [FancyText](https://github.com/yukinogatari/Ren-Py-FancyText) ⚠️ Archived - Text that can fade in letter-by-letter, and appear in other interesting ways.
-* [RenPy Lipsync Plugin](https://github.com/Wendy-Nam/RenPy-Lipsync-Plugin) ⭐ 21 | 🐛 4 | 🌐 C++ | 📅 2025-07-02 - A plugin that stitches the [Rhubarb automated lip sync engine](https://github.com/DanielSWolf/rhubarb-lip-sync) ⭐ 2,679 | 🐛 26 | 🌐 C++ | 📅 2026-06-16 into RenPy.
+* [RenPy Lipsync Plugin](https://github.com/Wendy-Nam/RenPy-Lipsync-Plugin) ⭐ 21 | 🐛 4 | 🌐 C++ | 📅 2025-07-02 - A plugin that stitches the [Rhubarb automated lip sync engine](https://github.com/DanielSWolf/rhubarb-lip-sync) ⭐ 2,683 | 🐛 26 | 🌐 C++ | 📅 2026-06-16 into RenPy.
 * [Autofocus](https://github.com/Elckarow/Autofocus) ⭐ 11 | 🐛 0 | 🌐 Ren'Py | 📅 2024-11-01 - A different technology to do the same.
 * [renpy-rainbowtext](https://github.com/Lezalith/renpy-rainbowtext) ⭐ 4 | 🐛 0 | 🌐 Ren'Py | 📅 2022-11-17 - A rainbow text effect.
 * [renpy-word-description](https://github.com/valery-iwanofu/renpy-word-description) ⭐ 4 | 🐛 0 | 🌐 Ren'Py | 📅 2023-08-09 -- Text tooltips on hover over words.
@@ -336,7 +336,7 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 
 Shaders are the most arcane part of RenPy, because they require branching into [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language), while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.
 
-* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,932 | 🐛 309 | 🌐 Ren'Py | 📅 2026-10-22 - An alternative implementation of blur that overrides the stock blur.
+* [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) ⭐ 6,938 | 🐛 306 | 🌐 Ren'Py | 📅 2026-10-23 - An alternative implementation of blur that overrides the stock blur.
 * [renpy-blend-modes](https://github.com/CrossCouloir/renpy-blend-modes) ⭐ 25 | 🐛 1 | 🌐 Ren'Py | 📅 2025-12-14 - Shader-based Photoshop-style blend modes for images. Only soft light is implemented.
 * [Wave shader](https://github.com/SoDaRa/RenpyWaveShader) ⭐ 17 | 🐛 1 | 🌐 Ren'Py | 📅 2022-05-23 - A better documented wave shader.
 * [Outline shader](https://github.com/RenpyRemix/outline-shader) ⭐ 15 | 🐛 2 | 🌐 Ren'Py | 📅 2021-04-11 - Adds outlines to arbitrary objects.
@@ -413,7 +413,7 @@ These are software unto themselves.
 
 #### Unpacking and decompilation
 
-* [unrpyc](https://github.com/CensoredUsername/unrpyc) ⭐ 1,271 | 🐛 11 | 🌐 Ren'Py | 📅 2026-02-24 - The `*.rpyc` file decompiler.
+* [unrpyc](https://github.com/CensoredUsername/unrpyc) ⭐ 1,272 | 🐛 11 | 🌐 Ren'Py | 📅 2026-02-24 - The `*.rpyc` file decompiler.
 * [unrpa](https://github.com/Lattyware/unrpa) ⭐ 769 | 🐛 21 | 🌐 Python | 📅 2022-06-27 - The most famous RPA archive extractor.
 * [rpatool](https://github.com/Shizmob/rpatool) ⚠️ Archived - The less famous RPA archive extractor.
 * [RPA Explorer](https://github.com/UniverseDevel/RPA-Explorer) ⭐ 108 | 🐛 2 | 🌐 JavaScript | 📅 2025-05-10 - Graphical explorer for RenPy Archives built around a C# library to manipulate them. Can also invoke `unrpyc` on the contents.
@@ -546,7 +546,7 @@ Most of these are only useful to produce background images, as getting the detai
 
 #### Video
 
-* [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video *and audio* format conversion and filtering. If you need a GUI for it, there's [QWinFF](https://qwinff.github.io/), [Axiom](https://github.com/MattMcManis/Axiom) ⭐ 1,714 | 🐛 72 | 🌐 C# | 📅 2021-11-09, [Videomass](https://github.com/jeanslack/Videomass) ⭐ 1,730 | 🐛 20 | 🌐 Python | 📅 2026-10-20, to name but a few.
+* [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video *and audio* format conversion and filtering. If you need a GUI for it, there's [QWinFF](https://qwinff.github.io/), [Axiom](https://github.com/MattMcManis/Axiom) ⭐ 1,714 | 🐛 72 | 🌐 C# | 📅 2021-11-09, [Videomass](https://github.com/jeanslack/Videomass) ⭐ 1,731 | 🐛 20 | 🌐 Python | 📅 2026-10-20, to name but a few.
 
 ## Curios
 
@@ -565,15 +565,15 @@ You can find a community of RenPy users in your language, provided it's one of:
 
 ## Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,680 | 🐛 105 | 📅 2026-09-02, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,236 | 🐛 26 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,742 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02.
+Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,419 | 🐛 105 | 📅 2026-09-02, [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,236 | 🐛 26 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,743 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02.
 
 Those should be of particular interest for RenPy users:
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 329,394 | 🐛 17 | 🌐 Python | 📅 2026-10-22
-* [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,375 | 🐛 0 | 📅 2023-08-21
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 329,621 | 🐛 17 | 🌐 Python | 📅 2026-10-22
+* [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,374 | 🐛 0 | 📅 2023-08-21
 * [magictools](https://github.com/ellisonleao/magictool)
 * [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
