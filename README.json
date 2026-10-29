@@ -150,7 +150,7 @@
             "open_issues": 0,
             "owner": "shawna-p",
             "repo": "EasyRenPyGui",
-            "stars": 77,
+            "stars": 78,
             "topics": [
               "ren-py",
               "renpy",
@@ -1109,7 +1109,7 @@
                     "id": 1400882121,
                     "language": "Ren'Py",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-14T00:17:01Z",
+                    "last_commit": "2026-10-29T12:59:41Z",
                     "open_issues": 0,
                     "owner": "Jaybe-Games",
                     "repo": "Breakup-for-Renpy",
@@ -1603,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-10-28T03:39:00Z",
-                "open_issues": 297,
+                "last_commit": "2026-10-29T13:57:34Z",
+                "open_issues": 299,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6948,
+                "stars": 6951,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1767,7 +1767,7 @@
                 "open_issues": 19,
                 "owner": "freeCodeCamp",
                 "repo": "LearnToCodeRPG",
-                "stars": 1135,
+                "stars": 1136,
                 "topics": [
                   "game",
                   "learn-to-code",
@@ -1850,7 +1850,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-10-27T22:10:10Z",
+                "last_commit": "2026-10-28T21:35:55Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2930,11 +2930,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T01:26:10Z",
+            "last_commit": "2026-10-29T12:38:48Z",
             "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 330849,
+            "stars": 331090,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
             "open_issues": 2,
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1375,
+            "stars": 1376,
             "topics": [
               "computer-graphics",
               "creative-coding",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:01:55.969Z",
+    "last_updated": "2026-10-29T15:10:12.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
@@ -2991,8 +2991,8 @@
       "id": 536685066,
       "language": null,
       "license": "Unlicense",
-      "last_commit": "2026-10-24T16:15:32Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-28T16:03:29Z",
+      "open_issues": 1,
       "owner": "methanoliver",
       "repo": "awesome-renpy",
       "stars": 384,
@@ -3006,7 +3006,7 @@
         "renpy-visual-novels"
       ]
     },
-    "original_repository_sha": "c62631605193d5228146b8086a9755dab76cb859",
+    "original_repository_sha": "74b2f40ed76d7e999df54d76d43fb875f2842f43",
     "enhanced_repository": "enhansome/enhansome-renpy",
     "enhanced_repository_description": null,
     "title": "Awesome RenPy with stars"
