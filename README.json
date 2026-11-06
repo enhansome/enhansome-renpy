@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5091,
+                "stars": 5090,
                 "topics": [
                   "free-ebooks",
                   "learning-python",
@@ -876,7 +876,7 @@
                 "open_issues": 0,
                 "owner": "campanellaaa",
                 "repo": "renpy_phone",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
@@ -1603,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-11-05T07:11:35Z",
-                "open_issues": 298,
+                "last_commit": "2026-11-06T04:39:33Z",
+                "open_issues": 300,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6973,
+                "stars": 6975,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1796,7 +1796,7 @@
                 "open_issues": 2,
                 "owner": "SecondThundeR",
                 "repo": "DokiDoki-RenPy",
-                "stars": 204,
+                "stars": 205,
                 "topics": [
                   "ddlc",
                   "decompiled-sources",
@@ -1823,7 +1823,7 @@
                 "open_issues": 8,
                 "owner": "Rubiksman78",
                 "repo": "MonikA.I",
-                "stars": 169,
+                "stars": 167,
                 "topics": [
                   "dialogpt",
                   "doki-doki-literature-club",
@@ -1850,7 +1850,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-11-04T21:41:36Z",
+                "last_commit": "2026-11-05T21:19:22Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2876,7 +2876,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1715,
+                    "stars": 1714,
                     "topics": [
                       "audio",
                       "converter",
@@ -2930,11 +2930,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T09:23:53Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-06T02:37:29Z",
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 332687,
+            "stars": 332932,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:23:30.508Z",
+    "last_updated": "2026-11-06T15:51:42.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
@@ -2995,7 +2995,7 @@
       "open_issues": 2,
       "owner": "methanoliver",
       "repo": "awesome-renpy",
-      "stars": 383,
+      "stars": 385,
       "topics": [
         "awesome",
         "awesome-list",
