@@ -890,6 +890,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "renpy-achievement",
+              "description": "A screen to display an XBox-like achievement popup. Does not actually interact with any achievement backend, but the builtin one should serve.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for an Xbox-inspired achievement popup in Ren'Py",
+                "homepage": null,
+                "id": 349593681,
+                "language": "Ren'Py",
+                "license": "MIT",
+                "last_commit": "2022-04-04T03:49:56Z",
+                "open_issues": 0,
+                "owner": "shawna-p",
+                "repo": "renpy-achievement",
+                "stars": 29,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
+            },
+            {
+              "node_type": "item",
               "title": "Ren'Py Universal Player",
               "description": "An enhanced music room for Ren'Py projects that allows users to play tracks outside the game's story along with sideloaded songs.",
               "children": [],
@@ -911,27 +932,6 @@
                   "ost",
                   "renpy"
                 ]
-              },
-              "first_seen": "2026-08-28T20:10:15.904Z"
-            },
-            {
-              "node_type": "item",
-              "title": "renpy-achievement",
-              "description": "A screen to display an XBox-like achievement popup. Does not actually interact with any achievement backend, but the builtin one should serve.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for an Xbox-inspired achievement popup in Ren'Py",
-                "homepage": null,
-                "id": 349593681,
-                "language": "Ren'Py",
-                "license": "MIT",
-                "last_commit": "2022-04-04T03:49:56Z",
-                "open_issues": 0,
-                "owner": "shawna-p",
-                "repo": "renpy-achievement",
-                "stars": 28,
-                "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
             },
@@ -1603,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-11-07T13:57:38Z",
-                "open_issues": 297,
+                "last_commit": "2026-11-08T06:28:25Z",
+                "open_issues": 293,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6984,
+                "stars": 6995,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1850,7 +1850,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-11-07T03:51:56Z",
+                "last_commit": "2026-11-08T14:42:24Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2097,7 +2097,7 @@
                     "open_issues": 13,
                     "owner": "EwenQuim",
                     "repo": "renpy-graphviz",
-                    "stars": 184,
+                    "stars": 185,
                     "topics": [
                       "branches",
                       "branching",
@@ -2595,7 +2595,7 @@
                     "open_issues": 0,
                     "owner": "drdrr",
                     "repo": "RenPy-UnAPK",
-                    "stars": 16,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2876,7 +2876,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1714,
+                    "stars": 1715,
                     "topics": [
                       "audio",
                       "converter",
@@ -2930,11 +2930,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T17:47:24Z",
+            "last_commit": "2026-11-08T14:42:33Z",
             "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 333137,
+            "stars": 333345,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:50:54.517Z",
+    "last_updated": "2026-11-08T15:00:07.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
@@ -2995,7 +2995,7 @@
       "open_issues": 2,
       "owner": "methanoliver",
       "repo": "awesome-renpy",
-      "stars": 385,
+      "stars": 386,
       "topics": [
         "awesome",
         "awesome-list",
