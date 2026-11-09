@@ -1603,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-11-08T06:28:25Z",
+                "last_commit": "2026-11-09T07:46:08Z",
                 "open_issues": 293,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 6995,
+                "stars": 6998,
                 "topics": [
                   "game-engine",
                   "python",
@@ -2496,7 +2496,7 @@
                     "open_issues": 11,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1280,
+                    "stars": 1281,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2517,7 +2517,7 @@
                     "open_issues": 21,
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 772,
+                    "stars": 773,
                     "topics": [
                       "extraction",
                       "python",
@@ -2931,10 +2931,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-08T14:42:33Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 333345,
+            "stars": 333560,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2962,7 @@
             "open_issues": 2,
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1377,
+            "stars": 1378,
             "topics": [
               "computer-graphics",
               "creative-coding",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T15:00:07.353Z",
+    "last_updated": "2026-11-09T18:41:00.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
