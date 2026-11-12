@@ -1603,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-11-11T06:59:11Z",
-                "open_issues": 298,
+                "last_commit": "2026-11-12T00:50:36Z",
+                "open_issues": 295,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 7006,
+                "stars": 7008,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1850,7 +1850,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-11-11T02:56:18Z",
+                "last_commit": "2026-11-12T03:51:58Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2517,7 +2517,7 @@
                     "open_issues": 21,
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 774,
+                    "stars": 773,
                     "topics": [
                       "extraction",
                       "python",
@@ -2931,10 +2931,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-08T14:42:33Z",
-            "open_issues": 22,
+            "open_issues": 24,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 334025,
+            "stars": 334258,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T16:03:42.416Z",
+    "last_updated": "2026-11-12T16:45:03.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
