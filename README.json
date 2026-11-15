@@ -1603,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-11-13T14:25:48Z",
-                "open_issues": 295,
+                "last_commit": "2026-11-15T14:37:06Z",
+                "open_issues": 293,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 7015,
+                "stars": 7021,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1850,7 +1850,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-11-14T01:12:12Z",
+                "last_commit": "2026-11-15T02:03:40Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2496,7 +2496,7 @@
                     "open_issues": 12,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1283,
+                    "stars": 1282,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2930,11 +2930,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T05:14:16Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-14T17:06:55Z",
+            "open_issues": 24,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 334686,
+            "stars": 334922,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:57:37.403Z",
+    "last_updated": "2026-11-15T15:35:19.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
