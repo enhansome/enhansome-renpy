@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5091,
+                "stars": 5092,
                 "topics": [
                   "free-ebooks",
                   "learning-python",
@@ -1603,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-11-16T16:21:58Z",
-                "open_issues": 297,
+                "last_commit": "2026-11-17T16:22:30Z",
+                "open_issues": 299,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 7030,
+                "stars": 7031,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1850,7 +1850,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-11-15T22:49:35Z",
+                "last_commit": "2026-11-17T01:02:26Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2496,7 +2496,7 @@
                     "open_issues": 13,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1284,
+                    "stars": 1285,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2565,7 +2565,7 @@
                     "open_issues": 2,
                     "owner": "UniverseDevel",
                     "repo": "RPA-Explorer",
-                    "stars": 107,
+                    "stars": 109,
                     "topics": [
                       "csharp",
                       "explorer",
@@ -2876,7 +2876,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1715,
+                    "stars": 1716,
                     "topics": [
                       "audio",
                       "converter",
@@ -2930,11 +2930,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T09:51:41Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-17T10:02:01Z",
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 335190,
+            "stars": 335422,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T18:20:20.576Z",
+    "last_updated": "2026-11-17T17:33:20.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
