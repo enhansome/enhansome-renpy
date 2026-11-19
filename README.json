@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5092,
+                "stars": 5091,
                 "topics": [
                   "free-ebooks",
                   "learning-python",
@@ -1603,11 +1603,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-11-18T14:38:23Z",
-                "open_issues": 298,
+                "last_commit": "2026-11-19T09:30:16Z",
+                "open_issues": 296,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 7036,
+                "stars": 7038,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1850,7 +1850,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-11-18T03:48:43Z",
+                "last_commit": "2026-11-19T02:22:52Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2934,7 +2934,7 @@
             "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 335654,
+            "stars": 335832,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2983,7 +2983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:09:52.783Z",
+    "last_updated": "2026-11-19T17:17:34.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
