@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "pamoroso",
                 "repo": "free-python-books",
-                "stars": 5091,
+                "stars": 5090,
                 "topics": [
                   "free-ebooks",
                   "learning-python",
@@ -436,30 +436,6 @@
                 "repo": "Kinetic-Text-Tags",
                 "stars": 109,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T20:10:15.904Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Encyclopaedia Framework",
-              "description": "Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Ren'Py plugin for creating an Encyclopaedia/Glossary/Bestiary or similar system.",
-                "homepage": "https://renpy-encyclopaedia.readthedocs.io/",
-                "id": 31487271,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-01-19T14:58:33Z",
-                "open_issues": 6,
-                "owner": "jsfehler",
-                "repo": "renpy-encyclopaedia",
-                "stars": 78,
-                "topics": [
-                  "python",
-                  "renpy"
-                ]
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
             },
@@ -1169,29 +1145,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Projection starfield",
-                  "description": "Particle-based starfield.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Display a starfield with a projection effect",
-                    "homepage": null,
-                    "id": 63569037,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2025-05-04T15:50:13Z",
-                    "open_issues": 0,
-                    "owner": "jsfehler",
-                    "repo": "renpy-projection-starfield",
-                    "stars": 5,
-                    "topics": [
-                      "renpy"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:10:15.904Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Ren-Py-Free-to-Use-Moving-Clouds",
                   "description": "Particle-based moving clouds, complete with assets.",
                   "children": [],
@@ -1218,30 +1171,6 @@
             },
             {
               "children": [
-                {
-                  "node_type": "item",
-                  "title": "Radar chart",
-                  "description": "Displayable for plotting data onto a radar chart.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Plugin to allow the creation of radar charts on Ren'Py screens",
-                    "homepage": null,
-                    "id": 40448443,
-                    "language": "Ren'Py",
-                    "license": "MIT",
-                    "last_commit": "2024-04-01T02:17:53Z",
-                    "open_issues": 2,
-                    "owner": "jsfehler",
-                    "repo": "renpy-radarchart",
-                    "stars": 23,
-                    "topics": [
-                      "python",
-                      "renpy"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:10:15.904Z"
-                },
                 {
                   "node_type": "item",
                   "title": "Static chessboard displayable",
@@ -1324,29 +1253,6 @@
             },
             {
               "children": [
-                {
-                  "node_type": "item",
-                  "title": "Free-hand draw",
-                  "description": "Draw on a canvas inside a Ren'Py game.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Draw images in Ren'Py",
-                    "homepage": null,
-                    "id": 145225467,
-                    "language": "Ren'Py",
-                    "license": "MIT",
-                    "last_commit": "2018-08-23T01:48:22Z",
-                    "open_issues": 0,
-                    "owner": "jsfehler",
-                    "repo": "renpy-freehand-draw",
-                    "stars": 29,
-                    "topics": [
-                      "renpy"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:10:15.904Z"
-                },
                 {
                   "node_type": "item",
                   "title": "Ren'Py Lovense Boilerplate",
@@ -1603,11 +1509,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-11-19T09:30:16Z",
+                "last_commit": "2026-11-20T16:11:57Z",
                 "open_issues": 296,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 7038,
+                "stars": 7039,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1767,7 +1673,7 @@
                 "open_issues": 19,
                 "owner": "freeCodeCamp",
                 "repo": "LearnToCodeRPG",
-                "stars": 1139,
+                "stars": 1138,
                 "topics": [
                   "game",
                   "learn-to-code",
@@ -1850,7 +1756,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-11-19T02:22:52Z",
+                "last_commit": "2026-11-20T02:07:32Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2496,7 +2402,7 @@
                     "open_issues": 13,
                     "owner": "CensoredUsername",
                     "repo": "unrpyc",
-                    "stars": 1285,
+                    "stars": 1284,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:15.904Z"
@@ -2517,7 +2423,7 @@
                     "open_issues": 21,
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 772,
+                    "stars": 771,
                     "topics": [
                       "extraction",
                       "python",
@@ -2876,7 +2782,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1716,
+                    "stars": 1717,
                     "topics": [
                       "audio",
                       "converter",
@@ -2931,10 +2837,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-17T10:02:01Z",
-            "open_issues": 20,
+            "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 335832,
+            "stars": 336019,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2962,7 +2868,7 @@
             "open_issues": 3,
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1381,
+            "stars": 1379,
             "topics": [
               "computer-graphics",
               "creative-coding",
@@ -2983,7 +2889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:17:34.959Z",
+    "last_updated": "2026-11-20T16:54:29.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
