@@ -434,7 +434,7 @@
                 "open_issues": 5,
                 "owner": "SoDaRa",
                 "repo": "Kinetic-Text-Tags",
-                "stars": 109,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
@@ -1509,11 +1509,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-11-20T16:11:57Z",
-                "open_issues": 296,
+                "last_commit": "2026-11-21T09:30:21Z",
+                "open_issues": 302,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 7039,
+                "stars": 7044,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1729,7 +1729,7 @@
                 "open_issues": 8,
                 "owner": "Rubiksman78",
                 "repo": "MonikA.I",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "dialogpt",
                   "doki-doki-literature-club",
@@ -1756,7 +1756,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-11-20T02:07:32Z",
+                "last_commit": "2026-11-21T00:19:25Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -2423,7 +2423,7 @@
                     "open_issues": 21,
                     "owner": "Lattyware",
                     "repo": "unrpa",
-                    "stars": 771,
+                    "stars": 772,
                     "topics": [
                       "extraction",
                       "python",
@@ -2492,12 +2492,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "将APK格式的RenPy游戏恢复为工程文件",
+                    "description": "Restore a Ren'Py Android game (.apk) to a project folder that the Ren'Py SDK can open. 将Ren'Py安卓游戏（APK格式）恢复为Ren'Py SDK能打开的工程文件",
                     "homepage": null,
                     "id": 368460490,
                     "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-02-20T14:40:01Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-20T21:59:10Z",
                     "open_issues": 0,
                     "owner": "drdrr",
                     "repo": "RenPy-UnAPK",
@@ -2782,7 +2782,7 @@
                     "open_issues": 72,
                     "owner": "MattMcManis",
                     "repo": "Axiom",
-                    "stars": 1717,
+                    "stars": 1716,
                     "topics": [
                       "audio",
                       "converter",
@@ -2840,7 +2840,7 @@
             "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 336019,
+            "stars": 336195,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2889,7 +2889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:54:29.045Z",
+    "last_updated": "2026-11-21T16:05:13.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
