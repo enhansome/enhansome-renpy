@@ -624,6 +624,27 @@
             },
             {
               "node_type": "item",
+              "title": "Dating Sim Engine",
+              "description": "The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dating Sim Engine",
+                "homepage": null,
+                "id": 40637253,
+                "language": "Ren'Py",
+                "license": "NOASSERTION",
+                "last_commit": "2019-11-06T18:28:41Z",
+                "open_issues": 0,
+                "owner": "renpy",
+                "repo": "dse",
+                "stars": 63,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:10:15.904Z"
+            },
+            {
+              "node_type": "item",
               "title": "Dating sim toolkit",
               "description": "A different take on same.",
               "children": [],
@@ -657,27 +678,6 @@
                   "toolkit",
                   "visual-novel"
                 ]
-              },
-              "first_seen": "2026-08-28T20:10:15.904Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Dating Sim Engine",
-              "description": "The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Dating Sim Engine",
-                "homepage": null,
-                "id": 40637253,
-                "language": "Ren'Py",
-                "license": "NOASSERTION",
-                "last_commit": "2019-11-06T18:28:41Z",
-                "open_issues": 0,
-                "owner": "renpy",
-                "repo": "dse",
-                "stars": 62,
-                "topics": []
               },
               "first_seen": "2026-08-28T20:10:15.904Z"
             },
@@ -1509,11 +1509,11 @@
                 "id": 4815490,
                 "language": "Ren'Py",
                 "license": null,
-                "last_commit": "2026-11-26T17:31:50Z",
-                "open_issues": 305,
+                "last_commit": "2026-11-27T12:52:01Z",
+                "open_issues": 303,
                 "owner": "renpy",
                 "repo": "renpy",
-                "stars": 7065,
+                "stars": 7079,
                 "topics": [
                   "game-engine",
                   "python",
@@ -1756,7 +1756,7 @@
                 "id": 129648853,
                 "language": "Ren'Py",
                 "license": "MIT",
-                "last_commit": "2026-11-26T00:55:42Z",
+                "last_commit": "2026-11-27T03:53:42Z",
                 "open_issues": 0,
                 "owner": "shawna-p",
                 "repo": "mysterious-messenger",
@@ -1999,8 +1999,8 @@
                     "id": 342880580,
                     "language": "Go",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-26T11:14:43Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-11-27T07:42:22Z",
+                    "open_issues": 11,
                     "owner": "EwenQuim",
                     "repo": "renpy-graphviz",
                     "stars": 185,
@@ -2420,7 +2420,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2022-06-27T12:05:29Z",
-                    "open_issues": 21,
+                    "open_issues": 22,
                     "owner": "Lattyware",
                     "repo": "unrpa",
                     "stars": 772,
@@ -2837,10 +2837,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-17T10:02:01Z",
-            "open_issues": 26,
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 337312,
+            "stars": 337508,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2889,7 +2889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:21:16.102Z",
+    "last_updated": "2026-11-27T18:04:58.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome goodies for RenPy visual novel engine. Inspired by the numerous awesome-lists everywhere.",
@@ -2898,7 +2898,7 @@
       "language": null,
       "license": "Unlicense",
       "last_commit": "2026-10-28T16:03:29Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "methanoliver",
       "repo": "awesome-renpy",
       "stars": 392,
